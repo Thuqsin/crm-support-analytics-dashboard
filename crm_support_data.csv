@@ -1,0 +1,501 @@
+ticket_id,subject,type,source,status,priority,agent,group,created_at,resolved_at,resolution_hours,sla_breached,csat_score,tags,month,day_of_week
+TKT-0001,Account suspended incorrectly,Incident,Email,Pending,High,Oluwatosin A.,Technical Support,2024-11-23 03:01:00,,,True,,mobile,2024-11,Saturday
+TKT-0002,Two factor authentication issue,Problem,Phone,Pending,Low,Fatima D.,Customer Success,2024-04-29 16:38:00,,,False,,email,2024-04,Monday
+TKT-0003,Account suspended incorrectly,Feature Request,Email,Open,High,Fatima D.,Technical Support,2024-03-20 06:48:00,,,False,,upgrade,2024-03,Wednesday
+TKT-0004,Billing charge incorrect,Question,Email,Pending,High,Fatima D.,Customer Success,2024-02-10 17:18:00,,,False,,report,2024-02,Saturday
+TKT-0005,Account suspended incorrectly,Question,Social Media,Resolved,High,Chisom B.,Billing,2024-11-21 11:10:00,2024-11-21 23:10:00,12.0,False,1.0,report,2024-11,Thursday
+TKT-0006,Email notifications not working,Problem,Phone,Resolved,Medium,Kelechi E.,Customer Success,2024-07-13 08:59:00,2024-07-14 10:59:00,26.0,False,4.0,mobile,2024-07,Saturday
+TKT-0007,Invoice not generated,Incident,Social Media,Pending,Urgent,Fatima D.,Customer Success,2024-12-01 15:25:00,,,False,,mobile,2024-12,Sunday
+TKT-0008,Account suspended incorrectly,Problem,Portal,Open,Low,Fatima D.,IT Helpdesk,2024-03-11 16:31:00,,,False,,email,2024-03,Monday
+TKT-0009,Slow loading dashboard,Question,Portal,Open,Low,Oluwatosin A.,Customer Success,2025-05-12 17:55:00,,,False,,bug,2025-05,Monday
+TKT-0010,Account suspended incorrectly,Feature Request,Portal,Pending,High,Oluwatosin A.,Technical Support,2024-09-16 03:55:00,,,True,,api,2024-09,Monday
+TKT-0011,Two factor authentication issue,Question,Phone,Pending,Low,Fatima D.,Billing,2025-03-25 09:15:00,,,True,,email,2025-03,Tuesday
+TKT-0012,Integration not working,Incident,Email,Pending,Medium,Chisom B.,Billing,2024-09-27 19:27:00,,,False,,billing,2024-09,Friday
+TKT-0013,Request for account upgrade,Problem,Email,Pending,Medium,Emeka C.,Technical Support,2024-06-22 00:37:00,,,True,,mobile,2024-06,Saturday
+TKT-0014,Billing charge incorrect,Problem,Portal,Pending,Medium,Emeka C.,IT Helpdesk,2024-05-22 21:31:00,,,True,,upgrade,2024-05,Wednesday
+TKT-0015,Request for account upgrade,Incident,Phone,Open,Low,Fatima D.,Billing,2024-08-27 23:03:00,,,True,,email,2024-08,Tuesday
+TKT-0016,Billing charge incorrect,Question,Phone,Closed,Low,Fatima D.,IT Helpdesk,2024-08-24 07:55:00,2024-08-30 04:55:00,141.0,False,1.0,report,2024-08,Saturday
+TKT-0017,Email notifications not working,Incident,Social Media,Pending,Low,Fatima D.,Billing,2024-04-19 12:57:00,,,False,,mobile,2024-04,Friday
+TKT-0018,Report download failing,Question,Email,Resolved,Low,Kelechi E.,Technical Support,2024-05-31 06:03:00,2024-06-05 19:03:00,133.0,False,5.0,bug,2024-05,Friday
+TKT-0019,Cannot login to account,Problem,Portal,Closed,Medium,Kelechi E.,Customer Success,2024-02-05 19:04:00,2024-02-07 10:04:00,39.0,False,5.0,email,2024-02,Monday
+TKT-0020,Integration not working,Feature Request,Email,Pending,High,Oluwatosin A.,IT Helpdesk,2024-04-14 21:45:00,,,False,,billing,2024-04,Sunday
+TKT-0021,App crashing on mobile,Incident,Social Media,Pending,High,Emeka C.,Technical Support,2024-02-07 17:13:00,,,False,,email,2024-02,Wednesday
+TKT-0022,Email notifications not working,Feature Request,Social Media,Resolved,Medium,Chisom B.,Customer Success,2025-04-22 21:06:00,2025-04-25 20:06:00,71.0,False,2.0,mobile,2025-04,Tuesday
+TKT-0023,API rate limit exceeded,Feature Request,Email,Closed,High,Oluwatosin A.,Customer Success,2024-12-17 20:54:00,2024-12-18 01:54:00,5.0,False,4.0,bug,2024-12,Tuesday
+TKT-0024,Data export failing,Problem,Chat,Closed,Urgent,Kelechi E.,Billing,2024-11-22 08:10:00,2024-11-22 09:10:00,1.0,False,2.0,upgrade,2024-11,Friday
+TKT-0025,Password reset not received,Incident,Social Media,Open,High,Chisom B.,Billing,2024-03-06 01:19:00,,,True,,bug,2024-03,Wednesday
+TKT-0026,Email notifications not working,Question,Email,Open,Urgent,Fatima D.,Technical Support,2025-05-14 05:56:00,,,True,,report,2025-05,Wednesday
+TKT-0027,Slow loading dashboard,Feature Request,Chat,Resolved,Urgent,Oluwatosin A.,Customer Success,2024-04-23 06:52:00,2024-04-23 09:52:00,3.0,False,2.0,api,2024-04,Tuesday
+TKT-0028,Cannot login to account,Problem,Social Media,Open,High,Fatima D.,Customer Success,2024-11-24 16:25:00,,,False,,api,2024-11,Sunday
+TKT-0029,Cannot login to account,Question,Chat,Closed,Low,Fatima D.,Technical Support,2024-08-11 19:32:00,2024-08-18 13:32:00,162.0,False,4.0,api,2024-08,Sunday
+TKT-0030,Data export failing,Question,Phone,Resolved,Low,Fatima D.,IT Helpdesk,2024-11-15 10:42:00,2024-11-20 13:42:00,123.0,False,3.0,bug,2024-11,Friday
+TKT-0031,Integration not working,Incident,Portal,Open,Urgent,Chisom B.,IT Helpdesk,2024-11-11 18:19:00,,,False,,bug,2024-11,Monday
+TKT-0032,Cannot login to account,Problem,Phone,Open,High,Fatima D.,Technical Support,2024-12-03 02:18:00,,,True,,report,2024-12,Tuesday
+TKT-0033,Report download failing,Problem,Portal,Closed,Medium,Chisom B.,Billing,2024-07-31 20:36:00,2024-08-02 11:36:00,39.0,False,1.0,report,2024-07,Wednesday
+TKT-0034,Account suspended incorrectly,Feature Request,Portal,Closed,Low,Kelechi E.,IT Helpdesk,2024-01-26 17:15:00,2024-02-01 12:15:00,139.0,False,5.0,report,2024-01,Friday
+TKT-0035,Integration not working,Question,Chat,Closed,Urgent,Fatima D.,Technical Support,2025-04-04 05:47:00,2025-04-04 08:47:00,3.0,False,5.0,email,2025-04,Friday
+TKT-0036,Invoice not generated,Question,Email,Open,High,Fatima D.,IT Helpdesk,2024-04-30 08:21:00,,,True,,api,2024-04,Tuesday
+TKT-0037,API rate limit exceeded,Incident,Portal,Pending,Low,Oluwatosin A.,Customer Success,2024-10-04 14:26:00,,,True,,email,2024-10,Friday
+TKT-0038,Cannot login to account,Incident,Chat,Pending,Urgent,Fatima D.,Billing,2025-01-20 12:54:00,,,False,,report,2025-01,Monday
+TKT-0039,API rate limit exceeded,Incident,Phone,Closed,Low,Oluwatosin A.,Customer Success,2025-04-15 04:39:00,2025-04-20 10:39:00,126.0,False,2.0,upgrade,2025-04,Tuesday
+TKT-0040,API rate limit exceeded,Problem,Portal,Resolved,High,Oluwatosin A.,Technical Support,2024-06-16 06:29:00,2024-06-16 18:29:00,12.0,False,3.0,api,2024-06,Sunday
+TKT-0041,Request for account upgrade,Question,Portal,Open,Low,Oluwatosin A.,Billing,2024-04-24 20:04:00,,,True,,report,2024-04,Wednesday
+TKT-0042,Report download failing,Feature Request,Social Media,Pending,High,Fatima D.,IT Helpdesk,2024-12-24 08:49:00,,,True,,mobile,2024-12,Tuesday
+TKT-0043,Password reset not received,Incident,Chat,Open,Medium,Oluwatosin A.,Customer Success,2024-02-08 18:44:00,,,True,,login,2024-02,Thursday
+TKT-0044,Slow loading dashboard,Question,Social Media,Open,Urgent,Emeka C.,IT Helpdesk,2025-03-10 13:52:00,,,True,,report,2025-03,Monday
+TKT-0045,Two factor authentication issue,Incident,Social Media,Resolved,High,Kelechi E.,IT Helpdesk,2024-08-11 23:37:00,2024-08-12 05:37:00,6.0,False,2.0,api,2024-08,Sunday
+TKT-0046,Email notifications not working,Feature Request,Social Media,Pending,High,Oluwatosin A.,Billing,2024-01-15 15:54:00,,,False,,billing,2024-01,Monday
+TKT-0047,Two factor authentication issue,Problem,Email,Pending,Urgent,Emeka C.,Billing,2024-05-03 23:26:00,,,False,,upgrade,2024-05,Friday
+TKT-0048,Password reset not received,Incident,Chat,Closed,High,Emeka C.,Customer Success,2024-12-20 07:19:00,2024-12-21 00:19:00,17.0,False,3.0,mobile,2024-12,Friday
+TKT-0049,Email notifications not working,Feature Request,Email,Open,High,Chisom B.,Customer Success,2024-03-02 23:12:00,,,False,,mobile,2024-03,Saturday
+TKT-0050,Invoice not generated,Question,Portal,Pending,Low,Oluwatosin A.,Technical Support,2024-07-03 05:19:00,,,False,,email,2024-07,Wednesday
+TKT-0051,Slow loading dashboard,Incident,Email,Pending,High,Kelechi E.,Technical Support,2024-08-28 15:28:00,,,True,,bug,2024-08,Wednesday
+TKT-0052,Two factor authentication issue,Incident,Portal,Pending,Low,Fatima D.,Customer Success,2024-03-17 18:19:00,,,True,,upgrade,2024-03,Sunday
+TKT-0053,App crashing on mobile,Question,Phone,Open,Low,Kelechi E.,Technical Support,2024-06-05 18:39:00,,,True,,bug,2024-06,Wednesday
+TKT-0054,Invoice not generated,Incident,Email,Resolved,Urgent,Chisom B.,Customer Success,2024-01-02 13:28:00,2024-01-02 14:28:00,1.0,False,3.0,mobile,2024-01,Tuesday
+TKT-0055,Two factor authentication issue,Feature Request,Social Media,Pending,Medium,Kelechi E.,Customer Success,2024-08-05 03:34:00,,,True,,report,2024-08,Monday
+TKT-0056,Billing charge incorrect,Problem,Portal,Closed,High,Emeka C.,Customer Success,2024-03-04 14:44:00,2024-03-05 10:44:00,20.0,False,4.0,login,2024-03,Monday
+TKT-0057,Report download failing,Feature Request,Phone,Resolved,Low,Kelechi E.,IT Helpdesk,2024-02-16 07:43:00,2024-02-22 01:43:00,138.0,False,4.0,report,2024-02,Friday
+TKT-0058,Password reset not received,Incident,Portal,Closed,High,Emeka C.,IT Helpdesk,2025-05-11 02:30:00,2025-05-11 16:30:00,14.0,False,2.0,login,2025-05,Sunday
+TKT-0059,Integration not working,Incident,Email,Resolved,High,Chisom B.,Customer Success,2024-08-20 02:20:00,2024-08-20 18:20:00,16.0,False,5.0,report,2024-08,Tuesday
+TKT-0060,Report download failing,Incident,Email,Pending,Low,Oluwatosin A.,Billing,2024-11-16 14:48:00,,,False,,bug,2024-11,Saturday
+TKT-0061,Integration not working,Feature Request,Social Media,Open,Urgent,Emeka C.,IT Helpdesk,2024-06-08 17:00:00,,,True,,report,2024-06,Saturday
+TKT-0062,API rate limit exceeded,Problem,Chat,Closed,Medium,Fatima D.,Customer Success,2024-08-29 07:29:00,2024-08-31 15:29:00,56.0,False,2.0,email,2024-08,Thursday
+TKT-0063,Password reset not received,Incident,Portal,Closed,High,Emeka C.,Billing,2025-02-24 00:18:00,2025-02-24 18:18:00,18.0,False,3.0,mobile,2025-02,Monday
+TKT-0064,Feature not available on plan,Question,Portal,Open,Urgent,Oluwatosin A.,Billing,2024-10-19 12:14:00,,,False,,api,2024-10,Saturday
+TKT-0065,API rate limit exceeded,Question,Email,Open,Urgent,Fatima D.,Customer Success,2025-03-21 03:55:00,,,False,,api,2025-03,Friday
+TKT-0066,API rate limit exceeded,Problem,Social Media,Resolved,Low,Oluwatosin A.,Billing,2024-11-15 22:25:00,2024-11-22 17:25:00,163.0,False,4.0,email,2024-11,Friday
+TKT-0067,Report download failing,Problem,Email,Open,Urgent,Emeka C.,Technical Support,2024-04-26 23:05:00,,,False,,email,2024-04,Friday
+TKT-0068,App crashing on mobile,Problem,Social Media,Pending,Medium,Fatima D.,Billing,2024-07-02 11:27:00,,,True,,report,2024-07,Tuesday
+TKT-0069,Report download failing,Incident,Chat,Closed,Medium,Kelechi E.,Billing,2025-04-12 18:09:00,2025-04-14 10:09:00,40.0,False,1.0,billing,2025-04,Saturday
+TKT-0070,API rate limit exceeded,Incident,Email,Closed,High,Chisom B.,IT Helpdesk,2024-08-14 11:37:00,2024-08-15 05:37:00,18.0,False,4.0,api,2024-08,Wednesday
+TKT-0071,Report download failing,Incident,Chat,Open,High,Chisom B.,Customer Success,2024-10-21 09:44:00,,,True,,mobile,2024-10,Monday
+TKT-0072,Two factor authentication issue,Incident,Email,Pending,High,Kelechi E.,Customer Success,2024-11-21 06:39:00,,,False,,bug,2024-11,Thursday
+TKT-0073,API rate limit exceeded,Question,Chat,Pending,Urgent,Fatima D.,Customer Success,2024-02-16 09:20:00,,,False,,api,2024-02,Friday
+TKT-0074,Two factor authentication issue,Incident,Email,Pending,Low,Emeka C.,Technical Support,2025-02-15 03:29:00,,,True,,report,2025-02,Saturday
+TKT-0075,Cannot login to account,Feature Request,Social Media,Closed,High,Chisom B.,Technical Support,2024-07-07 21:47:00,2024-07-08 04:47:00,7.0,False,4.0,report,2024-07,Sunday
+TKT-0076,Billing charge incorrect,Problem,Phone,Open,Urgent,Kelechi E.,Billing,2025-04-10 22:19:00,,,False,,upgrade,2025-04,Thursday
+TKT-0077,Email notifications not working,Problem,Chat,Pending,Urgent,Chisom B.,IT Helpdesk,2024-08-20 11:42:00,,,False,,report,2024-08,Tuesday
+TKT-0078,Slow loading dashboard,Feature Request,Phone,Open,High,Oluwatosin A.,IT Helpdesk,2025-05-01 07:54:00,,,True,,billing,2025-05,Thursday
+TKT-0079,Billing charge incorrect,Question,Social Media,Open,Low,Chisom B.,Billing,2024-12-05 06:41:00,,,True,,api,2024-12,Thursday
+TKT-0080,Billing charge incorrect,Problem,Phone,Resolved,Low,Oluwatosin A.,Customer Success,2025-01-31 04:50:00,2025-02-04 12:50:00,104.0,False,2.0,mobile,2025-01,Friday
+TKT-0081,Billing charge incorrect,Problem,Portal,Resolved,Medium,Fatima D.,Customer Success,2024-10-28 10:01:00,2024-10-31 09:01:00,71.0,False,5.0,billing,2024-10,Monday
+TKT-0082,API rate limit exceeded,Incident,Portal,Resolved,Low,Oluwatosin A.,IT Helpdesk,2024-08-19 16:14:00,2024-08-22 23:14:00,79.0,False,4.0,report,2024-08,Monday
+TKT-0083,Slow loading dashboard,Feature Request,Portal,Open,Medium,Kelechi E.,IT Helpdesk,2024-02-07 02:20:00,,,False,,billing,2024-02,Wednesday
+TKT-0084,Slow loading dashboard,Incident,Email,Closed,Medium,Emeka C.,IT Helpdesk,2025-02-10 22:07:00,2025-02-13 00:07:00,50.0,False,4.0,api,2025-02,Monday
+TKT-0085,Billing charge incorrect,Feature Request,Phone,Closed,Medium,Kelechi E.,Technical Support,2024-12-06 08:23:00,2024-12-07 13:23:00,29.0,False,4.0,api,2024-12,Friday
+TKT-0086,Billing charge incorrect,Question,Phone,Closed,High,Fatima D.,Billing,2024-12-09 03:26:00,2024-12-09 16:26:00,13.0,False,3.0,billing,2024-12,Monday
+TKT-0087,Feature not available on plan,Problem,Social Media,Resolved,Low,Emeka C.,Technical Support,2024-06-28 17:23:00,2024-07-05 00:23:00,151.0,False,5.0,bug,2024-06,Friday
+TKT-0088,Feature not available on plan,Incident,Email,Resolved,High,Chisom B.,Technical Support,2024-05-19 22:48:00,2024-05-20 02:48:00,4.0,False,5.0,billing,2024-05,Sunday
+TKT-0089,Invoice not generated,Feature Request,Social Media,Closed,Urgent,Kelechi E.,Technical Support,2025-01-17 16:13:00,2025-01-17 20:13:00,4.0,False,3.0,login,2025-01,Friday
+TKT-0090,Account suspended incorrectly,Incident,Portal,Open,Low,Emeka C.,Billing,2024-03-20 05:48:00,,,False,,billing,2024-03,Wednesday
+TKT-0091,Cannot login to account,Problem,Phone,Closed,High,Emeka C.,Billing,2024-06-25 13:07:00,2024-06-25 18:07:00,5.0,False,5.0,bug,2024-06,Tuesday
+TKT-0092,App crashing on mobile,Incident,Social Media,Open,High,Chisom B.,Customer Success,2025-01-26 08:18:00,,,True,,billing,2025-01,Sunday
+TKT-0093,Account suspended incorrectly,Incident,Portal,Open,Urgent,Emeka C.,Technical Support,2024-07-22 23:02:00,,,False,,upgrade,2024-07,Monday
+TKT-0094,Account suspended incorrectly,Incident,Social Media,Resolved,Urgent,Oluwatosin A.,IT Helpdesk,2024-01-11 10:10:00,2024-01-11 11:10:00,1.0,False,4.0,email,2024-01,Thursday
+TKT-0095,Report download failing,Feature Request,Chat,Pending,High,Chisom B.,Billing,2025-01-16 10:14:00,,,True,,billing,2025-01,Thursday
+TKT-0096,Two factor authentication issue,Incident,Social Media,Pending,Medium,Kelechi E.,Customer Success,2024-03-15 08:12:00,,,False,,api,2024-03,Friday
+TKT-0097,Data export failing,Problem,Chat,Closed,Urgent,Fatima D.,IT Helpdesk,2024-03-18 14:04:00,2024-03-18 17:04:00,3.0,False,3.0,login,2024-03,Monday
+TKT-0098,Integration not working,Problem,Portal,Open,High,Kelechi E.,Billing,2024-01-30 11:53:00,,,False,,api,2024-01,Tuesday
+TKT-0099,Data export failing,Question,Email,Open,Medium,Chisom B.,IT Helpdesk,2024-11-05 15:32:00,,,True,,report,2024-11,Tuesday
+TKT-0100,Feature not available on plan,Problem,Chat,Resolved,Medium,Oluwatosin A.,Customer Success,2024-09-25 16:39:00,2024-09-27 16:39:00,48.0,False,3.0,billing,2024-09,Wednesday
+TKT-0101,Report download failing,Feature Request,Chat,Resolved,High,Fatima D.,Billing,2024-10-12 21:24:00,2024-10-13 11:24:00,14.0,False,2.0,billing,2024-10,Saturday
+TKT-0102,Cannot login to account,Feature Request,Chat,Pending,High,Chisom B.,Billing,2024-06-07 17:24:00,,,False,,api,2024-06,Friday
+TKT-0103,Feature not available on plan,Feature Request,Social Media,Pending,Medium,Chisom B.,IT Helpdesk,2025-04-30 15:12:00,,,True,,bug,2025-04,Wednesday
+TKT-0104,Integration not working,Feature Request,Portal,Closed,Medium,Chisom B.,Billing,2024-03-24 05:53:00,2024-03-26 04:53:00,47.0,False,2.0,email,2024-03,Sunday
+TKT-0105,Data export failing,Incident,Phone,Resolved,Medium,Chisom B.,Billing,2025-05-09 15:57:00,2025-05-11 09:57:00,42.0,False,5.0,email,2025-05,Friday
+TKT-0106,Integration not working,Question,Portal,Open,High,Oluwatosin A.,Billing,2024-01-27 20:30:00,,,False,,report,2024-01,Saturday
+TKT-0107,Slow loading dashboard,Problem,Chat,Closed,Low,Chisom B.,Technical Support,2025-03-28 11:59:00,2025-04-02 10:59:00,119.0,False,2.0,api,2025-03,Friday
+TKT-0108,Two factor authentication issue,Incident,Portal,Pending,High,Kelechi E.,Technical Support,2025-04-21 03:53:00,,,True,,billing,2025-04,Monday
+TKT-0109,Cannot login to account,Question,Portal,Closed,Medium,Kelechi E.,IT Helpdesk,2024-01-10 08:13:00,2024-01-11 23:13:00,39.0,False,1.0,billing,2024-01,Wednesday
+TKT-0110,Request for account upgrade,Incident,Phone,Pending,Low,Oluwatosin A.,Customer Success,2024-02-26 15:38:00,,,False,,billing,2024-02,Monday
+TKT-0111,Email notifications not working,Problem,Chat,Closed,Low,Oluwatosin A.,Customer Success,2025-05-03 16:34:00,2025-05-08 17:34:00,121.0,False,3.0,mobile,2025-05,Saturday
+TKT-0112,API rate limit exceeded,Question,Portal,Resolved,Low,Fatima D.,Billing,2025-01-10 21:40:00,2025-01-16 18:40:00,141.0,False,3.0,bug,2025-01,Friday
+TKT-0113,Password reset not received,Feature Request,Social Media,Open,Urgent,Fatima D.,IT Helpdesk,2024-02-02 22:49:00,,,True,,email,2024-02,Friday
+TKT-0114,Two factor authentication issue,Feature Request,Portal,Resolved,High,Fatima D.,IT Helpdesk,2024-01-19 20:12:00,2024-01-20 20:12:00,24.0,False,1.0,upgrade,2024-01,Friday
+TKT-0115,Slow loading dashboard,Question,Social Media,Resolved,Urgent,Emeka C.,Customer Success,2024-06-22 05:31:00,2024-06-22 08:31:00,3.0,False,1.0,billing,2024-06,Saturday
+TKT-0116,Invoice not generated,Incident,Chat,Resolved,High,Fatima D.,Technical Support,2024-02-10 10:42:00,2024-02-11 09:42:00,23.0,False,2.0,api,2024-02,Saturday
+TKT-0117,Cannot login to account,Question,Social Media,Open,Low,Fatima D.,Technical Support,2024-11-10 13:17:00,,,True,,bug,2024-11,Sunday
+TKT-0118,Feature not available on plan,Incident,Chat,Resolved,High,Emeka C.,IT Helpdesk,2024-02-04 07:49:00,2024-02-05 05:49:00,22.0,False,2.0,billing,2024-02,Sunday
+TKT-0119,Cannot login to account,Question,Portal,Closed,High,Kelechi E.,IT Helpdesk,2024-10-20 04:33:00,2024-10-21 04:33:00,24.0,False,1.0,billing,2024-10,Sunday
+TKT-0120,API rate limit exceeded,Problem,Portal,Pending,Urgent,Chisom B.,IT Helpdesk,2024-05-14 08:45:00,,,True,,billing,2024-05,Tuesday
+TKT-0121,API rate limit exceeded,Question,Phone,Resolved,High,Emeka C.,Billing,2025-02-18 21:54:00,2025-02-19 18:54:00,21.0,False,3.0,billing,2025-02,Tuesday
+TKT-0122,Two factor authentication issue,Question,Social Media,Open,Urgent,Oluwatosin A.,Technical Support,2024-04-12 04:15:00,,,False,,email,2024-04,Friday
+TKT-0123,Feature not available on plan,Problem,Portal,Closed,Urgent,Fatima D.,Customer Success,2024-07-22 22:46:00,2024-07-23 02:46:00,4.0,False,3.0,bug,2024-07,Monday
+TKT-0124,Email notifications not working,Question,Phone,Pending,Medium,Emeka C.,Billing,2025-03-25 17:40:00,,,True,,api,2025-03,Tuesday
+TKT-0125,App crashing on mobile,Feature Request,Social Media,Open,High,Kelechi E.,Technical Support,2025-04-30 16:57:00,,,False,,bug,2025-04,Wednesday
+TKT-0126,Email notifications not working,Question,Social Media,Resolved,Medium,Fatima D.,Technical Support,2024-10-30 18:09:00,2024-10-31 23:09:00,29.0,False,5.0,report,2024-10,Wednesday
+TKT-0127,Integration not working,Problem,Email,Resolved,High,Chisom B.,IT Helpdesk,2025-03-31 20:34:00,2025-04-01 07:34:00,11.0,False,3.0,upgrade,2025-03,Monday
+TKT-0128,App crashing on mobile,Feature Request,Social Media,Pending,High,Kelechi E.,Technical Support,2024-09-04 14:13:00,,,False,,api,2024-09,Wednesday
+TKT-0129,Slow loading dashboard,Incident,Phone,Closed,High,Chisom B.,Customer Success,2024-05-03 14:07:00,2024-05-03 22:07:00,8.0,False,3.0,api,2024-05,Friday
+TKT-0130,Data export failing,Incident,Phone,Closed,Urgent,Chisom B.,Customer Success,2024-04-07 05:31:00,2024-04-07 08:31:00,3.0,False,4.0,login,2024-04,Sunday
+TKT-0131,Invoice not generated,Feature Request,Portal,Resolved,Urgent,Emeka C.,Technical Support,2024-01-26 09:31:00,2024-01-26 10:31:00,1.0,False,3.0,upgrade,2024-01,Friday
+TKT-0132,Two factor authentication issue,Feature Request,Social Media,Resolved,Medium,Kelechi E.,Technical Support,2024-01-27 18:35:00,2024-01-29 18:35:00,48.0,False,4.0,bug,2024-01,Saturday
+TKT-0133,Slow loading dashboard,Problem,Email,Resolved,High,Oluwatosin A.,Billing,2025-05-14 03:25:00,2025-05-14 11:25:00,8.0,False,5.0,api,2025-05,Wednesday
+TKT-0134,Slow loading dashboard,Feature Request,Social Media,Pending,Urgent,Emeka C.,IT Helpdesk,2025-02-15 15:33:00,,,True,,email,2025-02,Saturday
+TKT-0135,Account suspended incorrectly,Incident,Chat,Open,High,Kelechi E.,Billing,2024-08-31 00:23:00,,,True,,login,2024-08,Saturday
+TKT-0136,Request for account upgrade,Problem,Portal,Pending,Urgent,Emeka C.,IT Helpdesk,2024-10-25 15:10:00,,,True,,bug,2024-10,Friday
+TKT-0137,Password reset not received,Incident,Social Media,Closed,Urgent,Fatima D.,Customer Success,2024-07-30 22:13:00,2024-07-30 23:13:00,1.0,False,5.0,bug,2024-07,Tuesday
+TKT-0138,Email notifications not working,Question,Chat,Resolved,High,Emeka C.,Billing,2024-08-23 17:21:00,2024-08-24 03:21:00,10.0,False,5.0,report,2024-08,Friday
+TKT-0139,Report download failing,Incident,Chat,Resolved,High,Chisom B.,Customer Success,2024-06-11 15:22:00,2024-06-12 13:22:00,22.0,False,4.0,login,2024-06,Tuesday
+TKT-0140,Email notifications not working,Feature Request,Phone,Closed,High,Oluwatosin A.,Billing,2024-05-27 22:05:00,2024-05-28 17:05:00,19.0,False,5.0,mobile,2024-05,Monday
+TKT-0141,Billing charge incorrect,Question,Email,Pending,Medium,Kelechi E.,Billing,2024-01-26 21:57:00,,,False,,upgrade,2024-01,Friday
+TKT-0142,Feature not available on plan,Question,Social Media,Resolved,Medium,Oluwatosin A.,Billing,2024-11-30 15:30:00,2024-12-03 08:30:00,65.0,False,1.0,upgrade,2024-11,Saturday
+TKT-0143,Cannot login to account,Feature Request,Social Media,Closed,Low,Kelechi E.,Technical Support,2025-03-27 05:59:00,2025-03-31 18:59:00,109.0,False,1.0,api,2025-03,Thursday
+TKT-0144,App crashing on mobile,Incident,Chat,Pending,Urgent,Chisom B.,Technical Support,2024-05-25 14:41:00,,,False,,api,2024-05,Saturday
+TKT-0145,Slow loading dashboard,Problem,Phone,Pending,Medium,Chisom B.,IT Helpdesk,2025-02-08 09:36:00,,,True,,api,2025-02,Saturday
+TKT-0146,Email notifications not working,Problem,Chat,Closed,High,Emeka C.,Billing,2025-04-24 07:00:00,2025-04-25 01:00:00,18.0,False,3.0,login,2025-04,Thursday
+TKT-0147,Feature not available on plan,Feature Request,Chat,Pending,High,Kelechi E.,Billing,2024-12-07 03:29:00,,,True,,mobile,2024-12,Saturday
+TKT-0148,Two factor authentication issue,Question,Phone,Closed,Medium,Kelechi E.,Technical Support,2025-05-05 04:30:00,2025-05-08 00:30:00,68.0,False,4.0,report,2025-05,Monday
+TKT-0149,App crashing on mobile,Feature Request,Social Media,Open,Low,Fatima D.,Technical Support,2024-09-27 22:23:00,,,True,,mobile,2024-09,Friday
+TKT-0150,Integration not working,Problem,Social Media,Closed,Low,Fatima D.,Customer Success,2025-01-02 18:31:00,2025-01-08 11:31:00,137.0,False,4.0,login,2025-01,Thursday
+TKT-0151,Data export failing,Problem,Email,Pending,Low,Fatima D.,Technical Support,2024-07-21 08:52:00,,,True,,email,2024-07,Sunday
+TKT-0152,Billing charge incorrect,Question,Chat,Closed,Medium,Oluwatosin A.,Billing,2024-07-28 05:49:00,2024-07-30 09:49:00,52.0,False,4.0,upgrade,2024-07,Sunday
+TKT-0153,Data export failing,Incident,Phone,Open,Medium,Chisom B.,IT Helpdesk,2024-09-27 04:46:00,,,False,,api,2024-09,Friday
+TKT-0154,Billing charge incorrect,Problem,Social Media,Open,Low,Oluwatosin A.,IT Helpdesk,2024-03-20 08:12:00,,,True,,login,2024-03,Wednesday
+TKT-0155,App crashing on mobile,Feature Request,Phone,Closed,Urgent,Kelechi E.,Customer Success,2024-05-05 23:02:00,2024-05-06 01:02:00,2.0,False,1.0,api,2024-05,Sunday
+TKT-0156,Feature not available on plan,Incident,Social Media,Pending,Medium,Fatima D.,Technical Support,2024-05-01 09:56:00,,,True,,api,2024-05,Wednesday
+TKT-0157,App crashing on mobile,Incident,Phone,Resolved,Urgent,Chisom B.,Customer Success,2025-04-27 20:42:00,2025-04-28 00:42:00,4.0,False,4.0,bug,2025-04,Sunday
+TKT-0158,Request for account upgrade,Feature Request,Phone,Closed,Low,Emeka C.,Technical Support,2025-02-16 14:58:00,2025-02-20 07:58:00,89.0,False,4.0,report,2025-02,Sunday
+TKT-0159,API rate limit exceeded,Problem,Phone,Open,Medium,Kelechi E.,Billing,2025-03-09 11:05:00,,,True,,report,2025-03,Sunday
+TKT-0160,Report download failing,Question,Social Media,Pending,Low,Chisom B.,IT Helpdesk,2024-04-16 10:19:00,,,False,,mobile,2024-04,Tuesday
+TKT-0161,Email notifications not working,Feature Request,Social Media,Closed,High,Fatima D.,IT Helpdesk,2024-10-09 10:49:00,2024-10-10 07:49:00,21.0,False,3.0,billing,2024-10,Wednesday
+TKT-0162,Invoice not generated,Question,Email,Pending,High,Emeka C.,IT Helpdesk,2025-02-15 23:30:00,,,True,,email,2025-02,Saturday
+TKT-0163,Email notifications not working,Incident,Portal,Closed,Medium,Fatima D.,Billing,2024-03-19 06:21:00,2024-03-21 17:21:00,59.0,False,3.0,api,2024-03,Tuesday
+TKT-0164,Two factor authentication issue,Problem,Portal,Pending,Urgent,Chisom B.,Billing,2024-03-27 04:46:00,,,True,,billing,2024-03,Wednesday
+TKT-0165,Report download failing,Incident,Portal,Closed,Medium,Oluwatosin A.,Technical Support,2024-12-28 04:00:00,2024-12-30 19:00:00,63.0,False,5.0,upgrade,2024-12,Saturday
+TKT-0166,Two factor authentication issue,Question,Email,Resolved,High,Oluwatosin A.,Billing,2024-01-07 00:33:00,2024-01-07 20:33:00,20.0,False,4.0,mobile,2024-01,Sunday
+TKT-0167,Integration not working,Question,Phone,Resolved,High,Emeka C.,Technical Support,2024-04-08 19:33:00,2024-04-09 11:33:00,16.0,False,4.0,login,2024-04,Monday
+TKT-0168,Billing charge incorrect,Incident,Portal,Closed,Urgent,Emeka C.,Technical Support,2024-02-17 12:24:00,2024-02-17 13:24:00,1.0,False,2.0,login,2024-02,Saturday
+TKT-0169,Account suspended incorrectly,Problem,Phone,Resolved,Urgent,Emeka C.,Technical Support,2024-04-27 06:57:00,2024-04-27 07:57:00,1.0,False,5.0,mobile,2024-04,Saturday
+TKT-0170,Feature not available on plan,Feature Request,Portal,Open,Urgent,Chisom B.,Technical Support,2024-10-27 04:48:00,,,False,,api,2024-10,Sunday
+TKT-0171,Two factor authentication issue,Feature Request,Email,Open,Medium,Emeka C.,IT Helpdesk,2024-01-28 03:27:00,,,False,,report,2024-01,Sunday
+TKT-0172,Two factor authentication issue,Feature Request,Phone,Closed,Urgent,Oluwatosin A.,Technical Support,2024-04-26 11:35:00,2024-04-26 13:35:00,2.0,False,1.0,email,2024-04,Friday
+TKT-0173,Email notifications not working,Incident,Chat,Closed,Medium,Emeka C.,Technical Support,2024-03-19 12:45:00,2024-03-20 18:45:00,30.0,False,1.0,bug,2024-03,Tuesday
+TKT-0174,Billing charge incorrect,Feature Request,Portal,Closed,Urgent,Oluwatosin A.,Customer Success,2024-02-14 05:27:00,2024-02-14 06:27:00,1.0,False,5.0,upgrade,2024-02,Wednesday
+TKT-0175,Email notifications not working,Incident,Phone,Pending,Medium,Oluwatosin A.,Billing,2024-07-17 02:46:00,,,False,,upgrade,2024-07,Wednesday
+TKT-0176,Account suspended incorrectly,Question,Portal,Open,Urgent,Oluwatosin A.,Billing,2024-05-21 13:19:00,,,False,,email,2024-05,Tuesday
+TKT-0177,App crashing on mobile,Feature Request,Chat,Resolved,Urgent,Kelechi E.,Billing,2024-01-04 12:21:00,2024-01-04 16:21:00,4.0,False,5.0,report,2024-01,Thursday
+TKT-0178,Email notifications not working,Incident,Chat,Resolved,High,Oluwatosin A.,Billing,2024-06-09 05:25:00,2024-06-10 03:25:00,22.0,False,4.0,bug,2024-06,Sunday
+TKT-0179,Feature not available on plan,Incident,Phone,Pending,Urgent,Emeka C.,Billing,2024-12-15 17:01:00,,,False,,email,2024-12,Sunday
+TKT-0180,Slow loading dashboard,Incident,Social Media,Closed,Urgent,Oluwatosin A.,Customer Success,2024-12-03 04:45:00,2024-12-03 05:45:00,1.0,False,5.0,billing,2024-12,Tuesday
+TKT-0181,Two factor authentication issue,Feature Request,Portal,Pending,High,Oluwatosin A.,Technical Support,2024-02-25 07:42:00,,,False,,billing,2024-02,Sunday
+TKT-0182,Invoice not generated,Question,Chat,Closed,Medium,Oluwatosin A.,IT Helpdesk,2024-05-12 07:32:00,2024-05-14 12:32:00,53.0,False,5.0,billing,2024-05,Sunday
+TKT-0183,Two factor authentication issue,Question,Social Media,Open,Low,Fatima D.,Customer Success,2024-05-31 13:58:00,,,False,,report,2024-05,Friday
+TKT-0184,Cannot login to account,Feature Request,Email,Resolved,Urgent,Chisom B.,Billing,2024-02-19 14:46:00,2024-02-19 15:46:00,1.0,False,1.0,bug,2024-02,Monday
+TKT-0185,Feature not available on plan,Incident,Portal,Closed,Urgent,Oluwatosin A.,Billing,2024-10-09 05:21:00,2024-10-09 07:21:00,2.0,False,2.0,report,2024-10,Wednesday
+TKT-0186,Account suspended incorrectly,Problem,Social Media,Pending,Low,Chisom B.,Customer Success,2024-10-30 13:24:00,,,True,,api,2024-10,Wednesday
+TKT-0187,Account suspended incorrectly,Problem,Chat,Closed,High,Emeka C.,IT Helpdesk,2024-04-10 14:07:00,2024-04-11 13:07:00,23.0,False,4.0,bug,2024-04,Wednesday
+TKT-0188,Billing charge incorrect,Question,Chat,Open,High,Chisom B.,IT Helpdesk,2025-02-20 21:45:00,,,False,,upgrade,2025-02,Thursday
+TKT-0189,Data export failing,Question,Portal,Closed,Urgent,Emeka C.,Billing,2024-11-01 04:36:00,2024-11-01 06:36:00,2.0,False,2.0,bug,2024-11,Friday
+TKT-0190,Data export failing,Incident,Portal,Resolved,Low,Fatima D.,IT Helpdesk,2024-06-10 14:39:00,2024-06-14 14:39:00,96.0,False,4.0,report,2024-06,Monday
+TKT-0191,App crashing on mobile,Incident,Social Media,Pending,Low,Fatima D.,Technical Support,2024-09-07 05:05:00,,,False,,billing,2024-09,Saturday
+TKT-0192,Invoice not generated,Question,Chat,Open,High,Oluwatosin A.,IT Helpdesk,2024-05-17 17:52:00,,,True,,email,2024-05,Friday
+TKT-0193,App crashing on mobile,Question,Phone,Pending,Low,Chisom B.,Technical Support,2024-06-27 02:28:00,,,False,,api,2024-06,Thursday
+TKT-0194,Report download failing,Problem,Phone,Resolved,Medium,Fatima D.,Technical Support,2024-09-29 08:38:00,2024-10-01 20:38:00,60.0,False,5.0,email,2024-09,Sunday
+TKT-0195,Integration not working,Question,Social Media,Pending,Medium,Emeka C.,IT Helpdesk,2025-03-19 20:08:00,,,False,,upgrade,2025-03,Wednesday
+TKT-0196,Account suspended incorrectly,Problem,Email,Closed,Low,Fatima D.,Customer Success,2024-08-19 02:40:00,2024-08-24 16:40:00,134.0,False,3.0,billing,2024-08,Monday
+TKT-0197,Password reset not received,Question,Social Media,Closed,Medium,Fatima D.,Customer Success,2025-02-11 17:25:00,2025-02-13 10:25:00,41.0,False,3.0,login,2025-02,Tuesday
+TKT-0198,Slow loading dashboard,Question,Phone,Open,Urgent,Emeka C.,Billing,2024-01-24 03:40:00,,,True,,email,2024-01,Wednesday
+TKT-0199,Feature not available on plan,Feature Request,Phone,Open,High,Fatima D.,Technical Support,2024-02-17 20:23:00,,,False,,billing,2024-02,Saturday
+TKT-0200,Cannot login to account,Feature Request,Email,Pending,Low,Fatima D.,Billing,2024-01-01 06:30:00,,,True,,report,2024-01,Monday
+TKT-0201,Slow loading dashboard,Question,Phone,Open,Low,Oluwatosin A.,Technical Support,2024-02-06 07:24:00,,,True,,bug,2024-02,Tuesday
+TKT-0202,Billing charge incorrect,Problem,Phone,Pending,Medium,Oluwatosin A.,IT Helpdesk,2024-08-13 11:46:00,,,True,,api,2024-08,Tuesday
+TKT-0203,Two factor authentication issue,Problem,Chat,Pending,Medium,Chisom B.,Billing,2025-05-08 13:20:00,,,False,,upgrade,2025-05,Thursday
+TKT-0204,Billing charge incorrect,Problem,Chat,Closed,Medium,Emeka C.,Billing,2024-05-31 20:03:00,2024-06-02 11:03:00,39.0,False,5.0,upgrade,2024-05,Friday
+TKT-0205,Cannot login to account,Feature Request,Phone,Pending,High,Oluwatosin A.,Technical Support,2025-03-16 18:26:00,,,True,,upgrade,2025-03,Sunday
+TKT-0206,Account suspended incorrectly,Question,Chat,Closed,Urgent,Oluwatosin A.,Customer Success,2024-09-16 09:40:00,2024-09-16 13:40:00,4.0,False,5.0,billing,2024-09,Monday
+TKT-0207,Email notifications not working,Incident,Phone,Resolved,Medium,Oluwatosin A.,Billing,2024-09-18 06:51:00,2024-09-20 22:51:00,64.0,False,1.0,billing,2024-09,Wednesday
+TKT-0208,Invoice not generated,Problem,Phone,Open,Urgent,Fatima D.,Customer Success,2025-04-18 13:07:00,,,True,,email,2025-04,Friday
+TKT-0209,Email notifications not working,Problem,Portal,Open,High,Fatima D.,Customer Success,2024-03-26 11:08:00,,,True,,login,2024-03,Tuesday
+TKT-0210,Request for account upgrade,Problem,Email,Pending,High,Oluwatosin A.,Billing,2024-09-12 18:10:00,,,True,,login,2024-09,Thursday
+TKT-0211,Request for account upgrade,Feature Request,Phone,Pending,Medium,Fatima D.,Customer Success,2024-08-29 11:24:00,,,False,,email,2024-08,Thursday
+TKT-0212,Slow loading dashboard,Problem,Portal,Open,High,Emeka C.,Customer Success,2025-02-26 02:36:00,,,True,,api,2025-02,Wednesday
+TKT-0213,Request for account upgrade,Incident,Chat,Resolved,Low,Kelechi E.,IT Helpdesk,2024-02-14 17:29:00,2024-02-19 07:29:00,110.0,False,5.0,mobile,2024-02,Wednesday
+TKT-0214,Feature not available on plan,Problem,Chat,Pending,Medium,Oluwatosin A.,IT Helpdesk,2025-01-10 17:48:00,,,False,,email,2025-01,Friday
+TKT-0215,Billing charge incorrect,Problem,Phone,Closed,Medium,Kelechi E.,IT Helpdesk,2024-02-23 06:33:00,2024-02-24 15:33:00,33.0,False,3.0,api,2024-02,Friday
+TKT-0216,Slow loading dashboard,Question,Phone,Pending,Low,Emeka C.,Customer Success,2024-08-22 23:05:00,,,True,,api,2024-08,Thursday
+TKT-0217,App crashing on mobile,Problem,Phone,Resolved,High,Oluwatosin A.,Billing,2025-04-19 12:44:00,2025-04-20 00:44:00,12.0,False,2.0,report,2025-04,Saturday
+TKT-0218,API rate limit exceeded,Problem,Email,Resolved,Low,Chisom B.,Customer Success,2024-08-26 10:26:00,2024-08-31 21:26:00,131.0,False,3.0,login,2024-08,Monday
+TKT-0219,Email notifications not working,Question,Email,Pending,Low,Fatima D.,IT Helpdesk,2024-04-20 10:09:00,,,False,,mobile,2024-04,Saturday
+TKT-0220,API rate limit exceeded,Incident,Chat,Open,Medium,Oluwatosin A.,Customer Success,2024-02-18 14:06:00,,,True,,billing,2024-02,Sunday
+TKT-0221,Cannot login to account,Question,Social Media,Pending,Urgent,Fatima D.,IT Helpdesk,2024-01-12 02:12:00,,,False,,report,2024-01,Friday
+TKT-0222,Integration not working,Question,Email,Pending,Urgent,Kelechi E.,Billing,2024-01-16 12:43:00,,,False,,email,2024-01,Tuesday
+TKT-0223,Request for account upgrade,Question,Social Media,Open,Urgent,Oluwatosin A.,IT Helpdesk,2024-09-12 13:56:00,,,False,,api,2024-09,Thursday
+TKT-0224,Password reset not received,Question,Email,Resolved,Urgent,Emeka C.,Technical Support,2024-09-02 17:50:00,2024-09-02 20:50:00,3.0,False,1.0,report,2024-09,Monday
+TKT-0225,Data export failing,Problem,Phone,Pending,Medium,Kelechi E.,IT Helpdesk,2024-09-28 11:49:00,,,False,,api,2024-09,Saturday
+TKT-0226,Account suspended incorrectly,Question,Social Media,Resolved,Medium,Chisom B.,IT Helpdesk,2025-04-23 05:11:00,2025-04-24 06:11:00,25.0,False,3.0,email,2025-04,Wednesday
+TKT-0227,Cannot login to account,Feature Request,Social Media,Open,Low,Chisom B.,Billing,2024-03-30 15:02:00,,,False,,api,2024-03,Saturday
+TKT-0228,Two factor authentication issue,Problem,Social Media,Open,High,Emeka C.,Technical Support,2025-01-02 05:58:00,,,True,,api,2025-01,Thursday
+TKT-0229,Two factor authentication issue,Incident,Chat,Resolved,Low,Chisom B.,Customer Success,2024-12-26 21:25:00,2024-12-30 17:25:00,92.0,False,4.0,mobile,2024-12,Thursday
+TKT-0230,Invoice not generated,Incident,Social Media,Closed,Medium,Oluwatosin A.,Billing,2024-12-06 18:52:00,2024-12-08 02:52:00,32.0,False,1.0,api,2024-12,Friday
+TKT-0231,Password reset not received,Feature Request,Phone,Closed,Low,Oluwatosin A.,Customer Success,2025-04-16 19:14:00,2025-04-20 04:14:00,81.0,False,2.0,report,2025-04,Wednesday
+TKT-0232,Cannot login to account,Incident,Portal,Open,Medium,Fatima D.,Billing,2024-01-06 08:13:00,,,True,,upgrade,2024-01,Saturday
+TKT-0233,App crashing on mobile,Incident,Email,Open,Urgent,Oluwatosin A.,Customer Success,2024-09-09 12:22:00,,,True,,login,2024-09,Monday
+TKT-0234,Data export failing,Problem,Chat,Resolved,Low,Kelechi E.,IT Helpdesk,2024-06-12 08:06:00,2024-06-19 05:06:00,165.0,False,1.0,login,2024-06,Wednesday
+TKT-0235,Slow loading dashboard,Feature Request,Chat,Pending,Urgent,Emeka C.,Billing,2024-08-08 20:10:00,,,True,,billing,2024-08,Thursday
+TKT-0236,Email notifications not working,Incident,Phone,Pending,Urgent,Oluwatosin A.,Technical Support,2024-01-26 12:36:00,,,True,,mobile,2024-01,Friday
+TKT-0237,Report download failing,Feature Request,Email,Closed,Low,Kelechi E.,IT Helpdesk,2024-03-28 20:18:00,2024-04-03 08:18:00,132.0,False,4.0,bug,2024-03,Thursday
+TKT-0238,Request for account upgrade,Feature Request,Social Media,Closed,Medium,Oluwatosin A.,Billing,2024-07-08 12:23:00,2024-07-10 16:23:00,52.0,False,3.0,billing,2024-07,Monday
+TKT-0239,Account suspended incorrectly,Question,Portal,Pending,Urgent,Emeka C.,Technical Support,2024-02-13 21:22:00,,,False,,upgrade,2024-02,Tuesday
+TKT-0240,App crashing on mobile,Problem,Portal,Open,Medium,Oluwatosin A.,IT Helpdesk,2025-04-07 22:02:00,,,True,,mobile,2025-04,Monday
+TKT-0241,Data export failing,Feature Request,Chat,Resolved,High,Kelechi E.,IT Helpdesk,2025-02-25 20:09:00,2025-02-26 02:09:00,6.0,False,4.0,login,2025-02,Tuesday
+TKT-0242,Report download failing,Problem,Social Media,Open,Urgent,Oluwatosin A.,Customer Success,2025-02-06 22:39:00,,,True,,api,2025-02,Thursday
+TKT-0243,App crashing on mobile,Incident,Email,Closed,Urgent,Fatima D.,Customer Success,2025-03-25 13:16:00,2025-03-25 17:16:00,4.0,False,4.0,mobile,2025-03,Tuesday
+TKT-0244,API rate limit exceeded,Incident,Email,Resolved,High,Chisom B.,Billing,2024-01-26 23:30:00,2024-01-27 13:30:00,14.0,False,3.0,email,2024-01,Friday
+TKT-0245,Integration not working,Question,Portal,Resolved,High,Fatima D.,Customer Success,2025-05-13 23:28:00,2025-05-14 22:28:00,23.0,False,2.0,login,2025-05,Tuesday
+TKT-0246,Request for account upgrade,Question,Email,Closed,High,Chisom B.,Technical Support,2024-09-20 05:04:00,2024-09-21 01:04:00,20.0,False,2.0,report,2024-09,Friday
+TKT-0247,Feature not available on plan,Problem,Phone,Resolved,Medium,Emeka C.,IT Helpdesk,2024-01-26 11:45:00,2024-01-28 19:45:00,56.0,False,1.0,report,2024-01,Friday
+TKT-0248,Email notifications not working,Problem,Portal,Resolved,High,Oluwatosin A.,Billing,2024-03-31 15:37:00,2024-04-01 03:37:00,12.0,False,1.0,mobile,2024-03,Sunday
+TKT-0249,API rate limit exceeded,Problem,Portal,Pending,Medium,Chisom B.,Billing,2025-03-14 07:41:00,,,True,,login,2025-03,Friday
+TKT-0250,Request for account upgrade,Incident,Chat,Resolved,High,Kelechi E.,IT Helpdesk,2024-04-24 08:38:00,2024-04-25 00:38:00,16.0,False,3.0,billing,2024-04,Wednesday
+TKT-0251,Email notifications not working,Feature Request,Chat,Resolved,High,Emeka C.,Customer Success,2024-01-04 16:42:00,2024-01-04 23:42:00,7.0,False,3.0,mobile,2024-01,Thursday
+TKT-0252,Feature not available on plan,Incident,Chat,Open,Medium,Emeka C.,IT Helpdesk,2024-03-17 16:48:00,,,True,,upgrade,2024-03,Sunday
+TKT-0253,Data export failing,Feature Request,Phone,Resolved,Medium,Kelechi E.,Billing,2024-07-17 23:02:00,2024-07-20 15:02:00,64.0,False,3.0,email,2024-07,Wednesday
+TKT-0254,Request for account upgrade,Feature Request,Portal,Pending,High,Emeka C.,Customer Success,2024-02-19 15:08:00,,,False,,email,2024-02,Monday
+TKT-0255,Billing charge incorrect,Incident,Phone,Closed,Low,Kelechi E.,Technical Support,2024-10-26 09:29:00,2024-11-01 11:29:00,146.0,False,5.0,upgrade,2024-10,Saturday
+TKT-0256,App crashing on mobile,Feature Request,Phone,Pending,Low,Oluwatosin A.,IT Helpdesk,2024-09-28 09:26:00,,,False,,api,2024-09,Saturday
+TKT-0257,Integration not working,Problem,Phone,Open,Low,Kelechi E.,IT Helpdesk,2024-11-19 05:20:00,,,True,,upgrade,2024-11,Tuesday
+TKT-0258,Cannot login to account,Feature Request,Social Media,Open,Urgent,Chisom B.,Technical Support,2024-07-25 13:30:00,,,False,,login,2024-07,Thursday
+TKT-0259,Account suspended incorrectly,Feature Request,Phone,Resolved,Medium,Oluwatosin A.,Technical Support,2024-11-16 23:15:00,2024-11-18 05:15:00,30.0,False,5.0,email,2024-11,Saturday
+TKT-0260,App crashing on mobile,Incident,Email,Closed,High,Chisom B.,Billing,2025-04-30 09:29:00,2025-04-30 23:29:00,14.0,False,2.0,bug,2025-04,Wednesday
+TKT-0261,Two factor authentication issue,Problem,Social Media,Open,Medium,Oluwatosin A.,Technical Support,2024-04-18 23:01:00,,,False,,login,2024-04,Thursday
+TKT-0262,Invoice not generated,Question,Phone,Closed,Urgent,Oluwatosin A.,Customer Success,2024-01-25 22:07:00,2024-01-26 02:07:00,4.0,False,4.0,upgrade,2024-01,Thursday
+TKT-0263,Email notifications not working,Problem,Email,Pending,High,Fatima D.,Billing,2024-12-04 03:42:00,,,True,,mobile,2024-12,Wednesday
+TKT-0264,Integration not working,Question,Portal,Resolved,Medium,Emeka C.,Billing,2025-02-02 08:53:00,2025-02-03 18:53:00,34.0,False,5.0,login,2025-02,Sunday
+TKT-0265,Report download failing,Feature Request,Phone,Closed,Low,Fatima D.,Customer Success,2024-01-07 21:05:00,2024-01-11 06:05:00,81.0,False,1.0,email,2024-01,Sunday
+TKT-0266,Invoice not generated,Problem,Email,Open,Medium,Oluwatosin A.,Technical Support,2024-08-25 01:06:00,,,False,,bug,2024-08,Sunday
+TKT-0267,Password reset not received,Feature Request,Phone,Resolved,High,Oluwatosin A.,IT Helpdesk,2024-12-05 20:10:00,2024-12-06 19:10:00,23.0,False,1.0,upgrade,2024-12,Thursday
+TKT-0268,Invoice not generated,Problem,Phone,Closed,Urgent,Oluwatosin A.,IT Helpdesk,2025-05-07 14:17:00,2025-05-07 18:17:00,4.0,False,2.0,report,2025-05,Wednesday
+TKT-0269,Integration not working,Incident,Email,Pending,Urgent,Fatima D.,IT Helpdesk,2025-02-14 18:43:00,,,True,,login,2025-02,Friday
+TKT-0270,Slow loading dashboard,Question,Portal,Open,High,Emeka C.,IT Helpdesk,2024-02-02 08:41:00,,,True,,bug,2024-02,Friday
+TKT-0271,Billing charge incorrect,Incident,Chat,Open,Low,Chisom B.,Customer Success,2025-03-05 17:57:00,,,True,,email,2025-03,Wednesday
+TKT-0272,Integration not working,Problem,Portal,Closed,Urgent,Fatima D.,Customer Success,2024-01-26 16:14:00,2024-01-26 18:14:00,2.0,False,5.0,billing,2024-01,Friday
+TKT-0273,API rate limit exceeded,Problem,Social Media,Open,Low,Kelechi E.,Customer Success,2024-09-11 23:41:00,,,True,,mobile,2024-09,Wednesday
+TKT-0274,Two factor authentication issue,Incident,Chat,Resolved,High,Fatima D.,Technical Support,2024-12-01 21:29:00,2024-12-02 08:29:00,11.0,False,5.0,billing,2024-12,Sunday
+TKT-0275,Password reset not received,Problem,Email,Resolved,Low,Chisom B.,IT Helpdesk,2025-01-23 21:14:00,2025-01-29 19:14:00,142.0,False,5.0,bug,2025-01,Thursday
+TKT-0276,Report download failing,Incident,Phone,Open,Urgent,Fatima D.,Billing,2025-02-24 22:47:00,,,True,,api,2025-02,Monday
+TKT-0277,Cannot login to account,Problem,Social Media,Closed,Low,Fatima D.,IT Helpdesk,2024-02-25 13:02:00,2024-02-29 06:02:00,89.0,False,4.0,bug,2024-02,Sunday
+TKT-0278,Slow loading dashboard,Question,Chat,Open,Medium,Fatima D.,Customer Success,2024-12-20 18:11:00,,,False,,email,2024-12,Friday
+TKT-0279,Request for account upgrade,Feature Request,Chat,Resolved,Urgent,Chisom B.,Billing,2024-08-19 04:08:00,2024-08-19 07:08:00,3.0,False,2.0,api,2024-08,Monday
+TKT-0280,Data export failing,Problem,Email,Closed,High,Fatima D.,Billing,2024-12-29 03:48:00,2024-12-30 00:48:00,21.0,False,1.0,login,2024-12,Sunday
+TKT-0281,Request for account upgrade,Problem,Chat,Pending,High,Fatima D.,Technical Support,2024-12-09 01:12:00,,,False,,mobile,2024-12,Monday
+TKT-0282,Two factor authentication issue,Feature Request,Social Media,Pending,Urgent,Oluwatosin A.,Technical Support,2025-01-15 20:35:00,,,False,,email,2025-01,Wednesday
+TKT-0283,Two factor authentication issue,Question,Chat,Pending,Urgent,Fatima D.,Billing,2024-04-13 19:55:00,,,True,,billing,2024-04,Saturday
+TKT-0284,App crashing on mobile,Question,Social Media,Closed,Low,Emeka C.,Technical Support,2024-04-05 05:47:00,2024-04-11 04:47:00,143.0,False,3.0,api,2024-04,Friday
+TKT-0285,Integration not working,Feature Request,Email,Open,Medium,Emeka C.,Billing,2024-08-26 22:59:00,,,False,,bug,2024-08,Monday
+TKT-0286,Feature not available on plan,Feature Request,Chat,Closed,Medium,Emeka C.,Customer Success,2024-09-23 02:50:00,2024-09-25 00:50:00,46.0,False,2.0,mobile,2024-09,Monday
+TKT-0287,Cannot login to account,Feature Request,Portal,Open,Urgent,Oluwatosin A.,IT Helpdesk,2025-05-01 19:33:00,,,True,,email,2025-05,Thursday
+TKT-0288,Password reset not received,Problem,Email,Resolved,Low,Chisom B.,Technical Support,2024-10-03 23:18:00,2024-10-08 12:18:00,109.0,False,2.0,billing,2024-10,Thursday
+TKT-0289,Feature not available on plan,Problem,Phone,Closed,Medium,Oluwatosin A.,IT Helpdesk,2024-04-17 21:40:00,2024-04-20 07:40:00,58.0,False,4.0,api,2024-04,Wednesday
+TKT-0290,Report download failing,Feature Request,Portal,Pending,Low,Fatima D.,IT Helpdesk,2024-01-20 02:04:00,,,True,,upgrade,2024-01,Saturday
+TKT-0291,Two factor authentication issue,Problem,Email,Open,Urgent,Emeka C.,Technical Support,2024-08-09 10:01:00,,,True,,email,2024-08,Friday
+TKT-0292,Integration not working,Question,Social Media,Resolved,Low,Chisom B.,Billing,2025-02-06 21:19:00,2025-02-13 09:19:00,156.0,False,1.0,upgrade,2025-02,Thursday
+TKT-0293,Billing charge incorrect,Problem,Email,Resolved,Medium,Kelechi E.,IT Helpdesk,2025-02-11 17:18:00,2025-02-14 04:18:00,59.0,False,2.0,billing,2025-02,Tuesday
+TKT-0294,App crashing on mobile,Question,Social Media,Pending,High,Emeka C.,Billing,2024-06-05 06:47:00,,,True,,billing,2024-06,Wednesday
+TKT-0295,Billing charge incorrect,Question,Social Media,Closed,Low,Fatima D.,Customer Success,2024-04-02 21:51:00,2024-04-06 05:51:00,80.0,False,3.0,api,2024-04,Tuesday
+TKT-0296,Integration not working,Incident,Chat,Open,Medium,Kelechi E.,Customer Success,2024-03-06 21:41:00,,,False,,bug,2024-03,Wednesday
+TKT-0297,Invoice not generated,Incident,Chat,Closed,High,Emeka C.,Billing,2024-10-16 18:23:00,2024-10-16 22:23:00,4.0,False,2.0,api,2024-10,Wednesday
+TKT-0298,Feature not available on plan,Problem,Chat,Resolved,Urgent,Chisom B.,Billing,2025-03-25 15:29:00,2025-03-25 18:29:00,3.0,False,2.0,email,2025-03,Tuesday
+TKT-0299,Report download failing,Problem,Social Media,Open,Low,Emeka C.,IT Helpdesk,2025-01-10 20:04:00,,,True,,bug,2025-01,Friday
+TKT-0300,Password reset not received,Problem,Phone,Pending,High,Kelechi E.,Billing,2024-07-06 12:14:00,,,False,,bug,2024-07,Saturday
+TKT-0301,Billing charge incorrect,Feature Request,Chat,Closed,Medium,Chisom B.,Technical Support,2024-08-16 05:11:00,2024-08-17 19:11:00,38.0,False,2.0,mobile,2024-08,Friday
+TKT-0302,Invoice not generated,Feature Request,Chat,Closed,Urgent,Kelechi E.,Billing,2024-09-22 11:24:00,2024-09-22 12:24:00,1.0,False,1.0,upgrade,2024-09,Sunday
+TKT-0303,API rate limit exceeded,Feature Request,Portal,Resolved,Low,Fatima D.,Technical Support,2024-11-30 12:23:00,2024-12-05 15:23:00,123.0,False,3.0,bug,2024-11,Saturday
+TKT-0304,Account suspended incorrectly,Problem,Phone,Resolved,Low,Fatima D.,Customer Success,2024-08-13 05:14:00,2024-08-17 01:14:00,92.0,False,3.0,billing,2024-08,Tuesday
+TKT-0305,Cannot login to account,Question,Social Media,Pending,Urgent,Kelechi E.,Billing,2024-09-03 21:30:00,,,True,,bug,2024-09,Tuesday
+TKT-0306,Account suspended incorrectly,Problem,Chat,Open,Medium,Oluwatosin A.,Billing,2024-11-18 16:02:00,,,False,,report,2024-11,Monday
+TKT-0307,Account suspended incorrectly,Feature Request,Phone,Pending,Urgent,Emeka C.,IT Helpdesk,2024-11-06 15:55:00,,,True,,billing,2024-11,Wednesday
+TKT-0308,API rate limit exceeded,Question,Social Media,Open,Medium,Oluwatosin A.,Billing,2024-04-27 12:24:00,,,False,,report,2024-04,Saturday
+TKT-0309,Report download failing,Incident,Social Media,Open,Low,Fatima D.,Customer Success,2025-04-06 19:38:00,,,True,,login,2025-04,Sunday
+TKT-0310,Billing charge incorrect,Incident,Phone,Closed,Medium,Emeka C.,IT Helpdesk,2024-12-23 16:27:00,2024-12-26 05:27:00,61.0,False,5.0,mobile,2024-12,Monday
+TKT-0311,Account suspended incorrectly,Problem,Social Media,Resolved,Urgent,Oluwatosin A.,IT Helpdesk,2025-04-10 02:18:00,2025-04-10 04:18:00,2.0,False,1.0,mobile,2025-04,Thursday
+TKT-0312,Email notifications not working,Incident,Social Media,Open,High,Emeka C.,Customer Success,2024-12-18 10:26:00,,,False,,upgrade,2024-12,Wednesday
+TKT-0313,Email notifications not working,Feature Request,Portal,Pending,Urgent,Chisom B.,Technical Support,2025-01-21 06:26:00,,,False,,mobile,2025-01,Tuesday
+TKT-0314,App crashing on mobile,Incident,Email,Pending,Low,Oluwatosin A.,Billing,2024-08-16 22:10:00,,,True,,report,2024-08,Friday
+TKT-0315,Invoice not generated,Incident,Portal,Open,Low,Kelechi E.,Customer Success,2025-04-19 19:27:00,,,True,,login,2025-04,Saturday
+TKT-0316,Request for account upgrade,Problem,Social Media,Closed,Urgent,Kelechi E.,Billing,2025-04-29 05:40:00,2025-04-29 06:40:00,1.0,False,3.0,bug,2025-04,Tuesday
+TKT-0317,Feature not available on plan,Incident,Portal,Open,Medium,Kelechi E.,Billing,2024-12-11 01:23:00,,,False,,login,2024-12,Wednesday
+TKT-0318,Request for account upgrade,Incident,Portal,Resolved,Low,Kelechi E.,Technical Support,2025-01-12 22:04:00,2025-01-17 02:04:00,100.0,False,5.0,email,2025-01,Sunday
+TKT-0319,Report download failing,Feature Request,Portal,Open,Low,Fatima D.,IT Helpdesk,2024-03-30 13:32:00,,,False,,mobile,2024-03,Saturday
+TKT-0320,Slow loading dashboard,Question,Phone,Closed,Urgent,Emeka C.,IT Helpdesk,2025-01-22 10:49:00,2025-01-22 11:49:00,1.0,False,1.0,api,2025-01,Wednesday
+TKT-0321,Billing charge incorrect,Question,Portal,Pending,High,Emeka C.,Customer Success,2024-09-21 17:00:00,,,False,,mobile,2024-09,Saturday
+TKT-0322,API rate limit exceeded,Feature Request,Phone,Pending,Medium,Chisom B.,Billing,2025-04-02 18:17:00,,,True,,mobile,2025-04,Wednesday
+TKT-0323,Account suspended incorrectly,Problem,Social Media,Open,Medium,Oluwatosin A.,IT Helpdesk,2025-03-04 19:22:00,,,False,,api,2025-03,Tuesday
+TKT-0324,Two factor authentication issue,Question,Email,Closed,High,Kelechi E.,IT Helpdesk,2024-11-13 10:31:00,2024-11-14 06:31:00,20.0,False,2.0,report,2024-11,Wednesday
+TKT-0325,Integration not working,Feature Request,Email,Closed,High,Oluwatosin A.,Billing,2025-04-26 17:02:00,2025-04-27 11:02:00,18.0,False,5.0,upgrade,2025-04,Saturday
+TKT-0326,Integration not working,Feature Request,Chat,Resolved,High,Chisom B.,IT Helpdesk,2024-10-24 03:20:00,2024-10-25 00:20:00,21.0,False,3.0,upgrade,2024-10,Thursday
+TKT-0327,App crashing on mobile,Question,Email,Resolved,High,Emeka C.,Billing,2024-04-17 13:44:00,2024-04-18 01:44:00,12.0,False,5.0,upgrade,2024-04,Wednesday
+TKT-0328,App crashing on mobile,Feature Request,Portal,Pending,Medium,Emeka C.,Customer Success,2025-03-14 12:12:00,,,False,,login,2025-03,Friday
+TKT-0329,Integration not working,Feature Request,Chat,Open,Medium,Emeka C.,Customer Success,2024-07-22 03:44:00,,,True,,email,2024-07,Monday
+TKT-0330,App crashing on mobile,Feature Request,Chat,Resolved,Low,Emeka C.,IT Helpdesk,2024-06-25 00:26:00,2024-07-01 11:26:00,155.0,False,5.0,report,2024-06,Tuesday
+TKT-0331,Feature not available on plan,Incident,Email,Closed,High,Oluwatosin A.,Billing,2025-03-31 02:24:00,2025-03-31 11:24:00,9.0,False,4.0,api,2025-03,Monday
+TKT-0332,Data export failing,Incident,Portal,Resolved,High,Chisom B.,Billing,2024-04-26 10:20:00,2024-04-26 22:20:00,12.0,False,5.0,login,2024-04,Friday
+TKT-0333,Billing charge incorrect,Incident,Social Media,Open,High,Oluwatosin A.,Technical Support,2024-03-05 23:15:00,,,True,,upgrade,2024-03,Tuesday
+TKT-0334,Request for account upgrade,Feature Request,Portal,Pending,High,Chisom B.,Billing,2024-09-25 02:06:00,,,True,,bug,2024-09,Wednesday
+TKT-0335,Integration not working,Question,Social Media,Resolved,High,Chisom B.,IT Helpdesk,2024-01-15 01:42:00,2024-01-15 19:42:00,18.0,False,5.0,upgrade,2024-01,Monday
+TKT-0336,Email notifications not working,Feature Request,Portal,Resolved,High,Emeka C.,Billing,2024-09-25 20:40:00,2024-09-26 17:40:00,21.0,False,4.0,email,2024-09,Wednesday
+TKT-0337,Two factor authentication issue,Incident,Chat,Resolved,Medium,Oluwatosin A.,IT Helpdesk,2024-01-06 00:33:00,2024-01-08 10:33:00,58.0,False,4.0,email,2024-01,Saturday
+TKT-0338,Request for account upgrade,Question,Portal,Resolved,Low,Fatima D.,Billing,2024-11-01 07:50:00,2024-11-06 14:50:00,127.0,False,4.0,email,2024-11,Friday
+TKT-0339,Slow loading dashboard,Question,Email,Resolved,Medium,Chisom B.,Billing,2024-02-10 13:40:00,2024-02-13 12:40:00,71.0,False,3.0,email,2024-02,Saturday
+TKT-0340,Cannot login to account,Problem,Phone,Resolved,Urgent,Oluwatosin A.,Customer Success,2024-02-26 20:29:00,2024-02-27 00:29:00,4.0,False,2.0,email,2024-02,Monday
+TKT-0341,Password reset not received,Incident,Chat,Pending,Low,Fatima D.,Customer Success,2024-03-05 22:28:00,,,True,,report,2024-03,Tuesday
+TKT-0342,App crashing on mobile,Question,Chat,Pending,Low,Fatima D.,Technical Support,2024-12-22 01:21:00,,,False,,billing,2024-12,Sunday
+TKT-0343,Data export failing,Question,Portal,Closed,Urgent,Fatima D.,Customer Success,2025-05-13 22:15:00,2025-05-14 00:15:00,2.0,False,1.0,api,2025-05,Tuesday
+TKT-0344,Password reset not received,Problem,Phone,Open,Low,Oluwatosin A.,Billing,2024-03-22 20:46:00,,,True,,upgrade,2024-03,Friday
+TKT-0345,Invoice not generated,Question,Chat,Open,High,Oluwatosin A.,Billing,2024-06-15 00:10:00,,,False,,bug,2024-06,Saturday
+TKT-0346,App crashing on mobile,Incident,Phone,Open,High,Emeka C.,Customer Success,2024-09-12 02:43:00,,,True,,report,2024-09,Thursday
+TKT-0347,Data export failing,Feature Request,Social Media,Resolved,Urgent,Fatima D.,Billing,2025-01-10 06:01:00,2025-01-10 08:01:00,2.0,False,4.0,bug,2025-01,Friday
+TKT-0348,Email notifications not working,Feature Request,Social Media,Resolved,Urgent,Emeka C.,IT Helpdesk,2024-10-05 11:20:00,2024-10-05 13:20:00,2.0,False,4.0,login,2024-10,Saturday
+TKT-0349,Password reset not received,Problem,Social Media,Pending,Urgent,Fatima D.,Billing,2025-02-01 20:32:00,,,True,,report,2025-02,Saturday
+TKT-0350,Data export failing,Problem,Email,Resolved,High,Chisom B.,Billing,2025-01-27 17:09:00,2025-01-28 17:09:00,24.0,False,1.0,login,2025-01,Monday
+TKT-0351,Data export failing,Feature Request,Email,Open,Medium,Emeka C.,Billing,2024-04-13 03:31:00,,,False,,billing,2024-04,Saturday
+TKT-0352,API rate limit exceeded,Feature Request,Email,Open,Urgent,Kelechi E.,Customer Success,2024-01-07 06:41:00,,,False,,login,2024-01,Sunday
+TKT-0353,Data export failing,Incident,Phone,Open,High,Chisom B.,Billing,2025-01-10 02:53:00,,,True,,bug,2025-01,Friday
+TKT-0354,Report download failing,Problem,Phone,Open,Urgent,Chisom B.,IT Helpdesk,2024-10-12 23:35:00,,,False,,api,2024-10,Saturday
+TKT-0355,Two factor authentication issue,Incident,Chat,Resolved,Urgent,Kelechi E.,Billing,2024-12-02 05:34:00,2024-12-02 08:34:00,3.0,False,4.0,mobile,2024-12,Monday
+TKT-0356,Email notifications not working,Problem,Social Media,Resolved,High,Chisom B.,Customer Success,2024-07-11 17:59:00,2024-07-12 11:59:00,18.0,False,1.0,login,2024-07,Thursday
+TKT-0357,Billing charge incorrect,Problem,Portal,Open,High,Emeka C.,Billing,2024-06-02 07:13:00,,,True,,bug,2024-06,Sunday
+TKT-0358,Account suspended incorrectly,Question,Email,Pending,Medium,Emeka C.,IT Helpdesk,2024-05-15 11:56:00,,,False,,bug,2024-05,Wednesday
+TKT-0359,Report download failing,Feature Request,Chat,Resolved,Low,Fatima D.,IT Helpdesk,2024-09-06 22:44:00,2024-09-10 08:44:00,82.0,False,1.0,billing,2024-09,Friday
+TKT-0360,Data export failing,Question,Chat,Closed,Low,Kelechi E.,Billing,2025-03-21 07:47:00,2025-03-24 12:47:00,77.0,False,3.0,bug,2025-03,Friday
+TKT-0361,App crashing on mobile,Question,Chat,Closed,Urgent,Oluwatosin A.,IT Helpdesk,2024-01-26 21:46:00,2024-01-26 22:46:00,1.0,False,4.0,login,2024-01,Friday
+TKT-0362,Data export failing,Question,Portal,Closed,Low,Fatima D.,Billing,2024-10-07 12:16:00,2024-10-11 05:16:00,89.0,False,4.0,mobile,2024-10,Monday
+TKT-0363,Password reset not received,Feature Request,Phone,Resolved,Urgent,Emeka C.,Customer Success,2024-05-04 02:17:00,2024-05-04 03:17:00,1.0,False,4.0,login,2024-05,Saturday
+TKT-0364,Feature not available on plan,Feature Request,Phone,Closed,High,Oluwatosin A.,Technical Support,2025-01-29 09:10:00,2025-01-30 03:10:00,18.0,False,2.0,login,2025-01,Wednesday
+TKT-0365,Integration not working,Incident,Email,Resolved,Medium,Emeka C.,Billing,2024-05-04 19:59:00,2024-05-07 15:59:00,68.0,False,3.0,mobile,2024-05,Saturday
+TKT-0366,Cannot login to account,Feature Request,Phone,Closed,High,Oluwatosin A.,Customer Success,2024-04-14 17:33:00,2024-04-14 21:33:00,4.0,False,5.0,mobile,2024-04,Sunday
+TKT-0367,Feature not available on plan,Feature Request,Chat,Open,High,Oluwatosin A.,Technical Support,2025-02-08 22:39:00,,,False,,email,2025-02,Saturday
+TKT-0368,Billing charge incorrect,Question,Phone,Closed,Medium,Kelechi E.,IT Helpdesk,2025-03-20 20:24:00,2025-03-23 03:24:00,55.0,False,5.0,login,2025-03,Thursday
+TKT-0369,Password reset not received,Feature Request,Chat,Resolved,High,Emeka C.,Billing,2024-01-21 07:59:00,2024-01-21 23:59:00,16.0,False,1.0,email,2024-01,Sunday
+TKT-0370,Password reset not received,Incident,Phone,Closed,High,Oluwatosin A.,IT Helpdesk,2025-02-19 01:40:00,2025-02-19 22:40:00,21.0,False,2.0,mobile,2025-02,Wednesday
+TKT-0371,App crashing on mobile,Question,Phone,Closed,Medium,Kelechi E.,Billing,2024-08-01 07:36:00,2024-08-03 04:36:00,45.0,False,5.0,bug,2024-08,Thursday
+TKT-0372,Billing charge incorrect,Problem,Phone,Closed,Medium,Emeka C.,Billing,2024-06-07 22:45:00,2024-06-10 10:45:00,60.0,False,3.0,login,2024-06,Friday
+TKT-0373,App crashing on mobile,Question,Email,Closed,Urgent,Chisom B.,Billing,2025-01-26 10:56:00,2025-01-26 13:56:00,3.0,False,3.0,login,2025-01,Sunday
+TKT-0374,Billing charge incorrect,Incident,Phone,Pending,High,Kelechi E.,IT Helpdesk,2025-01-25 19:39:00,,,False,,api,2025-01,Saturday
+TKT-0375,Two factor authentication issue,Problem,Chat,Pending,Urgent,Fatima D.,Billing,2024-04-04 12:31:00,,,False,,mobile,2024-04,Thursday
+TKT-0376,Slow loading dashboard,Problem,Social Media,Closed,Medium,Fatima D.,Customer Success,2025-01-22 06:04:00,2025-01-24 11:04:00,53.0,False,4.0,upgrade,2025-01,Wednesday
+TKT-0377,Invoice not generated,Problem,Social Media,Open,Low,Fatima D.,Technical Support,2024-11-09 23:36:00,,,False,,mobile,2024-11,Saturday
+TKT-0378,Report download failing,Problem,Social Media,Resolved,High,Chisom B.,IT Helpdesk,2024-05-29 14:25:00,2024-05-29 23:25:00,9.0,False,5.0,report,2024-05,Wednesday
+TKT-0379,Cannot login to account,Question,Portal,Pending,Low,Kelechi E.,Billing,2024-02-16 23:32:00,,,False,,report,2024-02,Friday
+TKT-0380,Billing charge incorrect,Incident,Social Media,Open,Medium,Kelechi E.,Billing,2024-02-16 08:20:00,,,False,,upgrade,2024-02,Friday
+TKT-0381,Slow loading dashboard,Feature Request,Chat,Resolved,Medium,Fatima D.,Customer Success,2024-10-08 12:02:00,2024-10-09 21:02:00,33.0,False,1.0,bug,2024-10,Tuesday
+TKT-0382,Two factor authentication issue,Problem,Social Media,Resolved,Low,Fatima D.,Billing,2024-03-01 04:12:00,2024-03-06 19:12:00,135.0,False,5.0,mobile,2024-03,Friday
+TKT-0383,Request for account upgrade,Feature Request,Social Media,Closed,Urgent,Kelechi E.,Billing,2024-10-28 21:30:00,2024-10-29 01:30:00,4.0,False,1.0,login,2024-10,Monday
+TKT-0384,Password reset not received,Problem,Email,Open,High,Oluwatosin A.,IT Helpdesk,2024-04-04 04:03:00,,,False,,bug,2024-04,Thursday
+TKT-0385,Password reset not received,Incident,Email,Closed,Medium,Fatima D.,Technical Support,2024-03-23 21:18:00,2024-03-25 02:18:00,29.0,False,3.0,email,2024-03,Saturday
+TKT-0386,Account suspended incorrectly,Problem,Email,Resolved,High,Kelechi E.,Technical Support,2024-08-29 04:07:00,2024-08-30 00:07:00,20.0,False,2.0,report,2024-08,Thursday
+TKT-0387,Password reset not received,Question,Social Media,Closed,High,Kelechi E.,IT Helpdesk,2025-01-05 22:38:00,2025-01-06 10:38:00,12.0,False,5.0,report,2025-01,Sunday
+TKT-0388,Feature not available on plan,Problem,Phone,Resolved,Medium,Kelechi E.,IT Helpdesk,2024-09-09 05:56:00,2024-09-10 12:56:00,31.0,False,4.0,upgrade,2024-09,Monday
+TKT-0389,Email notifications not working,Feature Request,Email,Open,Medium,Oluwatosin A.,Customer Success,2024-01-24 10:22:00,,,False,,api,2024-01,Wednesday
+TKT-0390,Report download failing,Incident,Email,Pending,Low,Chisom B.,IT Helpdesk,2024-07-21 23:36:00,,,False,,bug,2024-07,Sunday
+TKT-0391,Invoice not generated,Feature Request,Social Media,Closed,High,Kelechi E.,Technical Support,2024-11-17 14:57:00,2024-11-17 19:57:00,5.0,False,5.0,mobile,2024-11,Sunday
+TKT-0392,Feature not available on plan,Question,Social Media,Open,High,Kelechi E.,IT Helpdesk,2024-10-22 21:21:00,,,False,,bug,2024-10,Tuesday
+TKT-0393,Report download failing,Question,Chat,Resolved,High,Fatima D.,Customer Success,2024-10-31 03:55:00,2024-10-31 15:55:00,12.0,False,4.0,mobile,2024-10,Thursday
+TKT-0394,Cannot login to account,Incident,Social Media,Resolved,Low,Chisom B.,Billing,2024-09-25 09:11:00,2024-09-30 17:11:00,128.0,False,5.0,api,2024-09,Wednesday
+TKT-0395,Request for account upgrade,Problem,Portal,Resolved,High,Fatima D.,Technical Support,2025-04-17 15:46:00,2025-04-17 22:46:00,7.0,False,2.0,login,2025-04,Thursday
+TKT-0396,Cannot login to account,Feature Request,Phone,Resolved,Low,Emeka C.,Billing,2024-06-08 01:43:00,2024-06-13 19:43:00,138.0,False,3.0,mobile,2024-06,Saturday
+TKT-0397,Billing charge incorrect,Problem,Social Media,Closed,High,Kelechi E.,Technical Support,2024-05-26 08:34:00,2024-05-26 20:34:00,12.0,False,3.0,mobile,2024-05,Sunday
+TKT-0398,Billing charge incorrect,Feature Request,Social Media,Resolved,High,Emeka C.,IT Helpdesk,2024-10-04 11:35:00,2024-10-05 00:35:00,13.0,False,2.0,login,2024-10,Friday
+TKT-0399,App crashing on mobile,Incident,Social Media,Open,Low,Emeka C.,Customer Success,2024-03-07 00:30:00,,,False,,api,2024-03,Thursday
+TKT-0400,Integration not working,Feature Request,Portal,Closed,Low,Fatima D.,Billing,2025-02-22 06:45:00,2025-02-27 17:45:00,131.0,False,1.0,mobile,2025-02,Saturday
+TKT-0401,Cannot login to account,Problem,Portal,Closed,High,Oluwatosin A.,Customer Success,2024-03-14 19:16:00,2024-03-15 09:16:00,14.0,False,4.0,report,2024-03,Thursday
+TKT-0402,Data export failing,Problem,Chat,Pending,High,Kelechi E.,IT Helpdesk,2024-08-24 05:18:00,,,False,,upgrade,2024-08,Saturday
+TKT-0403,API rate limit exceeded,Incident,Portal,Pending,Medium,Kelechi E.,Customer Success,2024-10-29 13:15:00,,,True,,mobile,2024-10,Tuesday
+TKT-0404,Data export failing,Problem,Portal,Closed,Low,Chisom B.,Customer Success,2024-03-29 21:42:00,2024-04-04 08:42:00,131.0,False,3.0,upgrade,2024-03,Friday
+TKT-0405,Request for account upgrade,Question,Social Media,Resolved,Urgent,Oluwatosin A.,Billing,2024-02-05 19:06:00,2024-02-05 23:06:00,4.0,False,1.0,bug,2024-02,Monday
+TKT-0406,Account suspended incorrectly,Feature Request,Portal,Closed,Urgent,Emeka C.,Technical Support,2024-08-19 17:18:00,2024-08-19 19:18:00,2.0,False,3.0,login,2024-08,Monday
+TKT-0407,Invoice not generated,Feature Request,Email,Resolved,Medium,Emeka C.,Technical Support,2024-11-09 16:25:00,2024-11-12 03:25:00,59.0,False,1.0,mobile,2024-11,Saturday
+TKT-0408,Request for account upgrade,Question,Portal,Resolved,Urgent,Chisom B.,Billing,2024-08-09 22:37:00,2024-08-10 02:37:00,4.0,False,5.0,upgrade,2024-08,Friday
+TKT-0409,Feature not available on plan,Problem,Phone,Pending,Urgent,Fatima D.,IT Helpdesk,2025-03-07 11:53:00,,,True,,bug,2025-03,Friday
+TKT-0410,Slow loading dashboard,Incident,Portal,Closed,Urgent,Emeka C.,Billing,2024-02-13 04:41:00,2024-02-13 08:41:00,4.0,False,5.0,bug,2024-02,Tuesday
+TKT-0411,Cannot login to account,Problem,Social Media,Pending,Urgent,Fatima D.,Customer Success,2024-08-05 19:00:00,,,False,,billing,2024-08,Monday
+TKT-0412,Request for account upgrade,Incident,Email,Pending,Low,Kelechi E.,Customer Success,2024-10-24 15:44:00,,,True,,login,2024-10,Thursday
+TKT-0413,Slow loading dashboard,Feature Request,Chat,Closed,Low,Emeka C.,Billing,2025-04-07 10:34:00,2025-04-13 11:34:00,145.0,False,3.0,login,2025-04,Monday
+TKT-0414,Account suspended incorrectly,Problem,Chat,Resolved,High,Kelechi E.,Technical Support,2024-12-21 19:47:00,2024-12-22 19:47:00,24.0,False,2.0,email,2024-12,Saturday
+TKT-0415,API rate limit exceeded,Feature Request,Email,Resolved,Low,Oluwatosin A.,Billing,2024-09-05 02:08:00,2024-09-09 13:08:00,107.0,False,3.0,bug,2024-09,Thursday
+TKT-0416,Password reset not received,Problem,Phone,Resolved,Medium,Kelechi E.,Billing,2024-12-03 14:23:00,2024-12-05 01:23:00,35.0,False,1.0,report,2024-12,Tuesday
+TKT-0417,Cannot login to account,Feature Request,Email,Pending,Urgent,Oluwatosin A.,Billing,2025-01-20 13:49:00,,,False,,report,2025-01,Monday
+TKT-0418,Data export failing,Incident,Email,Pending,Urgent,Emeka C.,IT Helpdesk,2024-07-23 15:19:00,,,True,,upgrade,2024-07,Tuesday
+TKT-0419,Password reset not received,Feature Request,Chat,Open,Low,Oluwatosin A.,Customer Success,2024-12-13 10:33:00,,,False,,upgrade,2024-12,Friday
+TKT-0420,Feature not available on plan,Problem,Email,Pending,Medium,Oluwatosin A.,IT Helpdesk,2024-08-24 21:47:00,,,True,,billing,2024-08,Saturday
+TKT-0421,Cannot login to account,Problem,Email,Resolved,Urgent,Kelechi E.,Billing,2024-09-25 03:43:00,2024-09-25 05:43:00,2.0,False,1.0,billing,2024-09,Wednesday
+TKT-0422,Email notifications not working,Incident,Email,Closed,Medium,Fatima D.,Customer Success,2024-12-28 03:05:00,2024-12-30 23:05:00,68.0,False,3.0,upgrade,2024-12,Saturday
+TKT-0423,Slow loading dashboard,Feature Request,Email,Resolved,High,Emeka C.,Customer Success,2024-12-20 21:49:00,2024-12-21 03:49:00,6.0,False,4.0,bug,2024-12,Friday
+TKT-0424,Data export failing,Incident,Phone,Closed,Medium,Kelechi E.,Technical Support,2024-08-13 02:31:00,2024-08-15 09:31:00,55.0,False,2.0,report,2024-08,Tuesday
+TKT-0425,Cannot login to account,Incident,Phone,Open,Low,Oluwatosin A.,Technical Support,2025-01-01 08:06:00,,,False,,upgrade,2025-01,Wednesday
+TKT-0426,Slow loading dashboard,Incident,Email,Closed,High,Kelechi E.,Billing,2024-05-16 04:44:00,2024-05-17 00:44:00,20.0,False,4.0,login,2024-05,Thursday
+TKT-0427,Cannot login to account,Problem,Chat,Open,Urgent,Kelechi E.,Customer Success,2024-07-15 22:52:00,,,False,,billing,2024-07,Monday
+TKT-0428,Email notifications not working,Incident,Email,Pending,High,Emeka C.,IT Helpdesk,2025-03-06 14:48:00,,,True,,billing,2025-03,Thursday
+TKT-0429,Integration not working,Incident,Email,Pending,Medium,Kelechi E.,Customer Success,2025-03-29 20:28:00,,,True,,report,2025-03,Saturday
+TKT-0430,Billing charge incorrect,Question,Social Media,Resolved,Low,Fatima D.,Billing,2024-09-30 14:01:00,2024-10-03 19:01:00,77.0,False,4.0,mobile,2024-09,Monday
+TKT-0431,Invoice not generated,Question,Email,Closed,Medium,Chisom B.,Technical Support,2025-04-18 02:02:00,2025-04-20 17:02:00,63.0,False,2.0,email,2025-04,Friday
+TKT-0432,Billing charge incorrect,Question,Portal,Open,Medium,Emeka C.,IT Helpdesk,2025-02-24 03:29:00,,,True,,api,2025-02,Monday
+TKT-0433,Billing charge incorrect,Problem,Chat,Resolved,Medium,Chisom B.,IT Helpdesk,2024-03-02 21:36:00,2024-03-05 10:36:00,61.0,False,3.0,bug,2024-03,Saturday
+TKT-0434,Two factor authentication issue,Incident,Phone,Closed,Medium,Oluwatosin A.,IT Helpdesk,2024-12-22 11:35:00,2024-12-23 13:35:00,26.0,False,1.0,billing,2024-12,Sunday
+TKT-0435,App crashing on mobile,Feature Request,Social Media,Resolved,Low,Fatima D.,IT Helpdesk,2024-01-04 00:11:00,2024-01-07 16:11:00,88.0,False,2.0,mobile,2024-01,Thursday
+TKT-0436,Password reset not received,Incident,Email,Pending,Low,Kelechi E.,Billing,2025-04-25 05:39:00,,,False,,mobile,2025-04,Friday
+TKT-0437,Cannot login to account,Question,Email,Pending,High,Chisom B.,IT Helpdesk,2024-03-01 16:06:00,,,False,,report,2024-03,Friday
+TKT-0438,Password reset not received,Incident,Email,Open,Low,Oluwatosin A.,Technical Support,2024-03-31 05:42:00,,,False,,bug,2024-03,Sunday
+TKT-0439,Slow loading dashboard,Question,Chat,Open,Low,Chisom B.,Technical Support,2024-03-21 00:31:00,,,False,,api,2024-03,Thursday
+TKT-0440,Cannot login to account,Incident,Phone,Pending,Urgent,Chisom B.,IT Helpdesk,2024-04-26 03:15:00,,,False,,bug,2024-04,Friday
+TKT-0441,Cannot login to account,Problem,Chat,Pending,Urgent,Chisom B.,Technical Support,2024-07-17 11:08:00,,,True,,report,2024-07,Wednesday
+TKT-0442,Account suspended incorrectly,Question,Email,Pending,High,Fatima D.,IT Helpdesk,2024-08-22 13:10:00,,,True,,mobile,2024-08,Thursday
+TKT-0443,Password reset not received,Incident,Social Media,Resolved,Urgent,Chisom B.,Billing,2024-10-29 15:53:00,2024-10-29 16:53:00,1.0,False,2.0,login,2024-10,Tuesday
+TKT-0444,Integration not working,Incident,Phone,Open,Urgent,Oluwatosin A.,Technical Support,2024-08-01 01:02:00,,,True,,upgrade,2024-08,Thursday
+TKT-0445,Feature not available on plan,Feature Request,Phone,Resolved,High,Fatima D.,Technical Support,2025-05-01 06:08:00,2025-05-02 06:08:00,24.0,False,4.0,report,2025-05,Thursday
+TKT-0446,API rate limit exceeded,Problem,Portal,Pending,Urgent,Emeka C.,Technical Support,2024-08-25 04:55:00,,,True,,email,2024-08,Sunday
+TKT-0447,Report download failing,Problem,Email,Open,Medium,Fatima D.,Customer Success,2024-08-06 08:44:00,,,False,,report,2024-08,Tuesday
+TKT-0448,Password reset not received,Question,Social Media,Pending,High,Oluwatosin A.,IT Helpdesk,2024-11-12 01:23:00,,,True,,mobile,2024-11,Tuesday
+TKT-0449,Email notifications not working,Problem,Email,Resolved,Medium,Emeka C.,Customer Success,2025-01-20 23:48:00,2025-01-23 07:48:00,56.0,False,4.0,report,2025-01,Monday
+TKT-0450,Request for account upgrade,Incident,Email,Closed,Low,Oluwatosin A.,IT Helpdesk,2024-09-05 16:33:00,2024-09-10 15:33:00,119.0,False,1.0,bug,2024-09,Thursday
+TKT-0451,Data export failing,Problem,Chat,Resolved,Medium,Fatima D.,Billing,2024-05-27 02:06:00,2024-05-29 09:06:00,55.0,False,2.0,report,2024-05,Monday
+TKT-0452,Feature not available on plan,Feature Request,Portal,Resolved,Low,Kelechi E.,Customer Success,2024-06-26 13:28:00,2024-06-30 18:28:00,101.0,False,5.0,api,2024-06,Wednesday
+TKT-0453,Two factor authentication issue,Feature Request,Phone,Closed,Urgent,Fatima D.,Customer Success,2024-09-05 18:42:00,2024-09-05 21:42:00,3.0,False,2.0,email,2024-09,Thursday
+TKT-0454,Email notifications not working,Question,Phone,Resolved,High,Chisom B.,Billing,2025-01-29 01:09:00,2025-01-29 10:09:00,9.0,False,5.0,mobile,2025-01,Wednesday
+TKT-0455,Invoice not generated,Problem,Chat,Closed,Medium,Emeka C.,Billing,2024-02-29 01:20:00,2024-03-01 12:20:00,35.0,False,5.0,api,2024-02,Thursday
+TKT-0456,Report download failing,Feature Request,Phone,Open,High,Oluwatosin A.,Customer Success,2024-08-17 17:10:00,,,False,,email,2024-08,Saturday
+TKT-0457,App crashing on mobile,Problem,Chat,Closed,Medium,Oluwatosin A.,IT Helpdesk,2024-08-30 09:48:00,2024-09-02 07:48:00,70.0,False,1.0,mobile,2024-08,Friday
+TKT-0458,Request for account upgrade,Problem,Email,Open,High,Kelechi E.,IT Helpdesk,2024-08-16 11:05:00,,,False,,billing,2024-08,Friday
+TKT-0459,Report download failing,Feature Request,Portal,Closed,Medium,Chisom B.,IT Helpdesk,2025-05-14 16:25:00,2025-05-17 06:25:00,62.0,False,1.0,api,2025-05,Wednesday
+TKT-0460,Request for account upgrade,Incident,Portal,Resolved,High,Fatima D.,Customer Success,2024-07-16 11:00:00,2024-07-17 00:00:00,13.0,False,1.0,bug,2024-07,Tuesday
+TKT-0461,Request for account upgrade,Feature Request,Portal,Closed,Urgent,Kelechi E.,Customer Success,2025-02-16 23:57:00,2025-02-17 01:57:00,2.0,False,2.0,billing,2025-02,Sunday
+TKT-0462,App crashing on mobile,Incident,Social Media,Open,Urgent,Chisom B.,Billing,2025-04-22 18:48:00,,,False,,bug,2025-04,Tuesday
+TKT-0463,Request for account upgrade,Problem,Email,Open,Urgent,Chisom B.,Customer Success,2025-03-02 12:18:00,,,False,,email,2025-03,Sunday
+TKT-0464,Cannot login to account,Problem,Chat,Open,Urgent,Fatima D.,Technical Support,2025-05-04 20:53:00,,,True,,api,2025-05,Sunday
+TKT-0465,Cannot login to account,Feature Request,Phone,Resolved,Urgent,Kelechi E.,Technical Support,2024-10-24 15:36:00,2024-10-24 19:36:00,4.0,False,5.0,bug,2024-10,Thursday
+TKT-0466,Feature not available on plan,Feature Request,Email,Resolved,Medium,Emeka C.,Customer Success,2024-06-12 14:56:00,2024-06-14 07:56:00,41.0,False,4.0,billing,2024-06,Wednesday
+TKT-0467,Email notifications not working,Feature Request,Email,Open,Medium,Kelechi E.,Customer Success,2024-09-20 06:49:00,,,False,,bug,2024-09,Friday
+TKT-0468,Request for account upgrade,Question,Social Media,Resolved,High,Chisom B.,Billing,2024-01-07 04:33:00,2024-01-07 21:33:00,17.0,False,1.0,billing,2024-01,Sunday
+TKT-0469,Invoice not generated,Feature Request,Phone,Open,Low,Fatima D.,Customer Success,2024-08-01 14:58:00,,,False,,bug,2024-08,Thursday
+TKT-0470,App crashing on mobile,Question,Phone,Pending,Low,Oluwatosin A.,IT Helpdesk,2024-12-29 09:01:00,,,False,,billing,2024-12,Sunday
+TKT-0471,Account suspended incorrectly,Problem,Portal,Closed,Urgent,Oluwatosin A.,Customer Success,2024-02-09 00:49:00,2024-02-09 01:49:00,1.0,False,5.0,login,2024-02,Friday
+TKT-0472,App crashing on mobile,Feature Request,Email,Open,Low,Oluwatosin A.,Billing,2024-02-03 09:42:00,,,True,,email,2024-02,Saturday
+TKT-0473,API rate limit exceeded,Problem,Social Media,Pending,High,Chisom B.,Billing,2025-04-30 18:22:00,,,True,,email,2025-04,Wednesday
+TKT-0474,Integration not working,Problem,Phone,Pending,Low,Emeka C.,IT Helpdesk,2024-03-28 17:00:00,,,True,,upgrade,2024-03,Thursday
+TKT-0475,Integration not working,Feature Request,Chat,Open,Urgent,Kelechi E.,Technical Support,2024-04-19 16:14:00,,,True,,billing,2024-04,Friday
+TKT-0476,Request for account upgrade,Incident,Chat,Resolved,Urgent,Fatima D.,Billing,2024-06-16 15:07:00,2024-06-16 19:07:00,4.0,False,4.0,billing,2024-06,Sunday
+TKT-0477,Integration not working,Problem,Email,Pending,High,Chisom B.,IT Helpdesk,2025-04-03 15:43:00,,,False,,upgrade,2025-04,Thursday
+TKT-0478,Billing charge incorrect,Question,Portal,Open,Medium,Fatima D.,Customer Success,2024-12-21 18:06:00,,,False,,email,2024-12,Saturday
+TKT-0479,Two factor authentication issue,Incident,Email,Closed,High,Oluwatosin A.,Customer Success,2025-01-22 20:25:00,2025-01-23 15:25:00,19.0,False,2.0,report,2025-01,Wednesday
+TKT-0480,App crashing on mobile,Incident,Social Media,Open,Medium,Emeka C.,Billing,2024-09-11 07:40:00,,,True,,email,2024-09,Wednesday
+TKT-0481,Integration not working,Feature Request,Social Media,Closed,Low,Emeka C.,Technical Support,2024-11-14 19:06:00,2024-11-21 07:06:00,156.0,False,4.0,login,2024-11,Thursday
+TKT-0482,App crashing on mobile,Feature Request,Phone,Resolved,Urgent,Fatima D.,IT Helpdesk,2024-08-08 03:24:00,2024-08-08 07:24:00,4.0,False,1.0,bug,2024-08,Thursday
+TKT-0483,Integration not working,Question,Social Media,Open,Urgent,Oluwatosin A.,IT Helpdesk,2024-06-08 22:24:00,,,False,,email,2024-06,Saturday
+TKT-0484,App crashing on mobile,Feature Request,Chat,Resolved,High,Kelechi E.,Technical Support,2024-09-10 18:24:00,2024-09-10 23:24:00,5.0,False,1.0,api,2024-09,Tuesday
+TKT-0485,Request for account upgrade,Question,Chat,Resolved,High,Kelechi E.,Technical Support,2024-07-13 03:27:00,2024-07-13 18:27:00,15.0,False,2.0,billing,2024-07,Saturday
+TKT-0486,Feature not available on plan,Incident,Social Media,Pending,High,Kelechi E.,IT Helpdesk,2025-03-20 09:07:00,,,False,,email,2025-03,Thursday
+TKT-0487,Billing charge incorrect,Incident,Email,Resolved,Low,Chisom B.,Customer Success,2024-01-11 22:30:00,2024-01-16 15:30:00,113.0,False,5.0,report,2024-01,Thursday
+TKT-0488,API rate limit exceeded,Question,Chat,Resolved,Medium,Emeka C.,Technical Support,2024-09-14 21:21:00,2024-09-16 09:21:00,36.0,False,1.0,email,2024-09,Saturday
+TKT-0489,Account suspended incorrectly,Incident,Portal,Open,Medium,Chisom B.,Customer Success,2024-10-20 12:51:00,,,True,,billing,2024-10,Sunday
+TKT-0490,Account suspended incorrectly,Incident,Social Media,Closed,High,Chisom B.,Technical Support,2024-11-29 09:32:00,2024-11-29 19:32:00,10.0,False,3.0,bug,2024-11,Friday
+TKT-0491,Data export failing,Question,Chat,Resolved,Urgent,Fatima D.,Billing,2024-10-22 15:13:00,2024-10-22 19:13:00,4.0,False,1.0,mobile,2024-10,Tuesday
+TKT-0492,API rate limit exceeded,Incident,Chat,Closed,High,Emeka C.,Billing,2024-03-18 23:43:00,2024-03-19 13:43:00,14.0,False,2.0,email,2024-03,Monday
+TKT-0493,Two factor authentication issue,Feature Request,Portal,Pending,Urgent,Fatima D.,IT Helpdesk,2024-12-17 19:15:00,,,True,,upgrade,2024-12,Tuesday
+TKT-0494,App crashing on mobile,Problem,Portal,Resolved,Medium,Oluwatosin A.,Technical Support,2024-11-27 01:12:00,2024-11-28 17:12:00,40.0,False,5.0,billing,2024-11,Wednesday
+TKT-0495,Request for account upgrade,Problem,Social Media,Closed,Low,Kelechi E.,Technical Support,2024-06-09 19:19:00,2024-06-16 15:19:00,164.0,False,2.0,email,2024-06,Sunday
+TKT-0496,Report download failing,Incident,Phone,Resolved,Low,Chisom B.,Technical Support,2024-09-11 02:15:00,2024-09-16 03:15:00,121.0,False,2.0,bug,2024-09,Wednesday
+TKT-0497,Password reset not received,Incident,Portal,Resolved,Urgent,Chisom B.,Customer Success,2024-04-19 08:28:00,2024-04-19 09:28:00,1.0,False,1.0,bug,2024-04,Friday
+TKT-0498,Invoice not generated,Question,Chat,Resolved,High,Kelechi E.,IT Helpdesk,2024-07-04 15:45:00,2024-07-05 15:45:00,24.0,False,1.0,email,2024-07,Thursday
+TKT-0499,Email notifications not working,Problem,Phone,Pending,Low,Emeka C.,Billing,2024-11-23 22:23:00,,,False,,bug,2024-11,Saturday
+TKT-0500,Invoice not generated,Incident,Chat,Closed,High,Fatima D.,Technical Support,2025-04-13 14:40:00,2025-04-14 02:40:00,12.0,False,4.0,bug,2025-04,Sunday
